@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\30. Middleware Chain.props" />
+</Project>

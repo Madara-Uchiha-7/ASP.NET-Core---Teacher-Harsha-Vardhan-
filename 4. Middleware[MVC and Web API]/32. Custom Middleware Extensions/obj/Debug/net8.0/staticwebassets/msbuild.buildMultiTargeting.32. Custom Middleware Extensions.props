@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\32. Custom Middleware Extensions.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\34. The Right Order of Middleware.props" />
+</Project>

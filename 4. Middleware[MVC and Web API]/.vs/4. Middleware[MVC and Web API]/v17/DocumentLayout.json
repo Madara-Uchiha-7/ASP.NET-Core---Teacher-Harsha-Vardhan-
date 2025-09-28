@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F500A162-2313-4708-BDD8-09A0159F0FAC}|36. Notes\\36. Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\36. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F500A162-2313-4708-BDD8-09A0159F0FAC}|36. Notes\\36. Notes.csproj|solutionrelative:36. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F20022-24B2-431D-B7F5-C85FC765E5F2}|35. UseWhen\\35. UseWhen.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\35. usewhen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F20022-24B2-431D-B7F5-C85FC765E5F2}|35. UseWhen\\35. UseWhen.csproj|solutionrelative:35. usewhen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9728CE0B-722C-47C2-BDA1-7D840C43818A}|30. Middleware Chain\\30. Middleware Chain.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\30. middleware chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9728CE0B-722C-47C2-BDA1-7D840C43818A}|30. Middleware Chain\\30. Middleware Chain.csproj|solutionrelative:30. middleware chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B3C03-4505-4446-BFCA-A52B58F34968}|33. Custom Conventional Middleware Class\\33. Custom Conventional Middleware Class.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\33. custom conventional middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B3C03-4505-4446-BFCA-A52B58F34968}|33. Custom Conventional Middleware Class\\33. Custom Conventional Middleware Class.csproj|solutionrelative:33. custom conventional middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3556BC46-3275-4897-8C02-8B100371B46A}|32. Custom Middleware Extensions\\32. Custom Middleware Extensions.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\32. custom middleware extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3556BC46-3275-4897-8C02-8B100371B46A}|32. Custom Middleware Extensions\\32. Custom Middleware Extensions.csproj|solutionrelative:32. custom middleware extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69FCBC0-D611-41DB-AE00-CD60CE98DA24}|34. The Right Order of Middleware\\34. The Right Order of Middleware.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\34. the right order of middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69FCBC0-D611-41DB-AE00-CD60CE98DA24}|34. The Right Order of Middleware\\34. The Right Order of Middleware.csproj|solutionrelative:34. the right order of middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69B3C03-4505-4446-BFCA-A52B58F34968}|33. Custom Conventional Middleware Class\\33. Custom Conventional Middleware Class.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\33. custom conventional middleware class\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69B3C03-4505-4446-BFCA-A52B58F34968}|33. Custom Conventional Middleware Class\\33. Custom Conventional Middleware Class.csproj|solutionrelative:33. custom conventional middleware class\\custommiddleware\\hellocustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F7BA8-11C5-43B9-9C09-536CA7B902E5}|31. Custom Middleware Class\\31. Custom Middleware Class.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\31. custom middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F7BA8-11C5-43B9-9C09-536CA7B902E5}|31. Custom Middleware Class\\31. Custom Middleware Class.csproj|solutionrelative:31. custom middleware class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC2D066-5848-4275-A636-A53F32EAB37A}|29. Run\\29. Run.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\29. run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC2D066-5848-4275-A636-A53F32EAB37A}|29. Run\\29. Run.csproj|solutionrelative:29. run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5BD107-11E8-4B39-B569-A42840E59CE5}|28. Intro to Middleware\\28. Intro to Middleware.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\4. middleware[mvc and web api]\\28. intro to middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5BD107-11E8-4B39-B569-A42840E59CE5}|28. Intro to Middleware\\28. Intro to Middleware.csproj|solutionrelative:28. intro to middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\36. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "36. Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\36. Notes\\Program.cs",
+              "RelativeToolTip": "36. Notes\\Program.cs",
+              "ViewState": "AQIAAG0CAAAAAAAAAAAAAJQCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:51:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\35. UseWhen\\Program.cs",
+              "RelativeDocumentMoniker": "35. UseWhen\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\35. UseWhen\\Program.cs",
+              "RelativeToolTip": "35. UseWhen\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:23:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\34. The Right Order of Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "34. The Right Order of Middleware\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\34. The Right Order of Middleware\\Program.cs",
+              "RelativeToolTip": "34. The Right Order of Middleware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:05:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloCustomMiddleware.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\33. Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "33. Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\33. Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "RelativeToolTip": "33. Custom Conventional Middleware Class\\CustomMiddleware\\HelloCustomMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:43:12.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\33. Custom Conventional Middleware Class\\Program.cs",
+              "RelativeDocumentMoniker": "33. Custom Conventional Middleware Class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\33. Custom Conventional Middleware Class\\Program.cs",
+              "RelativeToolTip": "33. Custom Conventional Middleware Class\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:36:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\32. Custom Middleware Extensions\\Program.cs",
+              "RelativeDocumentMoniker": "32. Custom Middleware Extensions\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\32. Custom Middleware Extensions\\Program.cs",
+              "RelativeToolTip": "32. Custom Middleware Extensions\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:11:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\31. Custom Middleware Class\\Program.cs",
+              "RelativeDocumentMoniker": "31. Custom Middleware Class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\31. Custom Middleware Class\\Program.cs",
+              "RelativeToolTip": "31. Custom Middleware Class\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:08:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\30. Middleware Chain\\Program.cs",
+              "RelativeDocumentMoniker": "30. Middleware Chain\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\30. Middleware Chain\\Program.cs",
+              "RelativeToolTip": "30. Middleware Chain\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:35:07.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\29. Run\\Program.cs",
+              "RelativeDocumentMoniker": "29. Run\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\29. Run\\Program.cs",
+              "RelativeToolTip": "29. Run\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:17:22.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\28. Intro to Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "28. Intro to Middleware\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\4. Middleware[MVC and Web API]\\28. Intro to Middleware\\Program.cs",
+              "RelativeToolTip": "28. Intro to Middleware\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T06:07:30.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

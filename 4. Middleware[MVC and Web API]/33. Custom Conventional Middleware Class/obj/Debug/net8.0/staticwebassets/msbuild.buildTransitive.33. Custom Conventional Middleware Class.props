@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\33. Custom Conventional Middleware Class.props" />
+</Project>

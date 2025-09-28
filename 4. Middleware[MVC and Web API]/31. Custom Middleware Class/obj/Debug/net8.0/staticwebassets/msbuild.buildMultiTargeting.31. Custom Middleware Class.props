@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\31. Custom Middleware Class.props" />
+</Project>

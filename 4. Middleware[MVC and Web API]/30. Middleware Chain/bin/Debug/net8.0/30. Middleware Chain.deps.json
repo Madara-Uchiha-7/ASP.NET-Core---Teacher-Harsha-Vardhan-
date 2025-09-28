@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "30. Middleware Chain/1.0.0": {
+        "runtime": {
+          "30. Middleware Chain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30. Middleware Chain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "34. The Right Order of Middleware/1.0.0": {
+        "runtime": {
+          "34. The Right Order of Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "34. The Right Order of Middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

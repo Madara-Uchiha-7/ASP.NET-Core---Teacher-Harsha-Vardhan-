@@ -1,0 +1,26 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\33. Custom Conventional Middleware Class.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\33. Custom Conventional Middleware Class.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\33. Custom Conventional Middleware Class.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\33. Custom Conventional Middleware Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\bin\Debug\net8.0\33. Custom Conventional Middleware Class.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets\msbuild.33. Custom Conventional Middleware Class.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets\msbuild.build.33. Custom Conventional Middleware Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.33. Custom Conventional Middleware Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.33. Custom Conventional Middleware Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\scopedcss\bundle\33. Custom Conventional Middleware Class.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\refint\33. Custom Conventional Middleware Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\33. Custom Conventional Middleware Class.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\4. Middleware[MVC and Web API]\33. Custom Conventional Middleware Class\obj\Debug\net8.0\ref\33. Custom Conventional Middleware Class.dll

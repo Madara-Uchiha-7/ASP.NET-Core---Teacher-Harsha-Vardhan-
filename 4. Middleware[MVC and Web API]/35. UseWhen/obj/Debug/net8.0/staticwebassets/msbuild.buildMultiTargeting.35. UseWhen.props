@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\35. UseWhen.props" />
+</Project>
