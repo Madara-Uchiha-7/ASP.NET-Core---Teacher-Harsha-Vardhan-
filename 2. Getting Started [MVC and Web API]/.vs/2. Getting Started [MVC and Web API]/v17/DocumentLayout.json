@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60200154-5AA5-40F3-AF52-261624593AAF}|14. Notes\\14. Notes.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\14. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60200154-5AA5-40F3-AF52-261624593AAF}|14. Notes\\14. Notes.csproj|solutionrelative:14. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}|12. Kestrel and Other Servers\\12. Kestrel and Other Servers.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\12. kestrel and other servers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}|12. Kestrel and Other Servers\\12. Kestrel and Other Servers.csproj|solutionrelative:12. kestrel and other servers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613BBB04-E8D5-4438-8EFA-B5E079AA5275}|13. launchSettings.json\\13. launchSettings.json.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\13. launchsettings.json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613BBB04-E8D5-4438-8EFA-B5E079AA5275}|13. launchSettings.json\\13. launchSettings.json.csproj|solutionrelative:13. launchsettings.json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613BBB04-E8D5-4438-8EFA-B5E079AA5275}|13. launchSettings.json\\13. launchSettings.json.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\13. launchsettings.json\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{613BBB04-E8D5-4438-8EFA-B5E079AA5275}|13. launchSettings.json\\13. launchSettings.json.csproj|solutionrelative:13. launchsettings.json\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}|11. Create First Asp.Net Core App\\11. Create First Asp.Net Core App.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\11. create first asp.net core app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}|11. Create First Asp.Net Core App\\11. Create First Asp.Net Core App.csproj|solutionrelative:11. create first asp.net core app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}|10. Setup Environment\\10. Setup Environment.csproj|c:\\users\\chinm\\source\\repos\\10. setup environment [mvc and web api]\\10. setup environment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}|10. Setup Environment\\10. Setup Environment.csproj|solutionrelative:10. setup environment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\14. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "14. Notes\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\14. Notes\\Program.cs",
+              "RelativeToolTip": "14. Notes\\Program.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAmwO4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:38:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\13. launchSettings.json\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "13. launchSettings.json\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\13. launchSettings.json\\Properties\\launchSettings.json",
+              "RelativeToolTip": "13. launchSettings.json\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T06:03:56.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\13. launchSettings.json\\Program.cs",
+              "RelativeDocumentMoniker": "13. launchSettings.json\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\13. launchSettings.json\\Program.cs",
+              "RelativeToolTip": "13. launchSettings.json\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:02:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\12. Kestrel and Other Servers\\Program.cs",
+              "RelativeDocumentMoniker": "12. Kestrel and Other Servers\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\12. Kestrel and Other Servers\\Program.cs",
+              "RelativeToolTip": "12. Kestrel and Other Servers\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:09:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\11. Create First Asp.Net Core App\\Program.cs",
+              "RelativeDocumentMoniker": "11. Create First Asp.Net Core App\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\11. Create First Asp.Net Core App\\Program.cs",
+              "RelativeToolTip": "11. Create First Asp.Net Core App\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwFIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:25:01.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\10. Setup Environment\\Program.cs",
+              "RelativeDocumentMoniker": "10. Setup Environment\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\10. Setup Environment [MVC and Web API]\\10. Setup Environment\\Program.cs",
+              "RelativeToolTip": "10. Setup Environment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:20:07.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

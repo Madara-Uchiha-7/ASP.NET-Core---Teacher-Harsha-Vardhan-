@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\22. HTTP Request Headers.exe
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\22. HTTP Request Headers.deps.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\22. HTTP Request Headers.runtimeconfig.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\22. HTTP Request Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\bin\Debug\net8.0\22. HTTP Request Headers.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.AssemblyInfo.cs
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets\msbuild.22. HTTP Request Headers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets\msbuild.build.22. HTTP Request Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.22. HTTP Request Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.22. HTTP Request Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\scopedcss\bundle\22. HTTP Request Headers.styles.css
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\refint\22. HTTP Request Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\22. HTTP Request Headers.genruntimeconfig.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\22. HTTP Request Headers\obj\Debug\net8.0\ref\22. HTTP Request Headers.dll

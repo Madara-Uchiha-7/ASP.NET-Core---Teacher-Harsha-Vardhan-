@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\19. HTTP Response Headers.exe
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\19. HTTP Response Headers.deps.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\19. HTTP Response Headers.runtimeconfig.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\19. HTTP Response Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\bin\Debug\net8.0\19. HTTP Response Headers.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.AssemblyInfo.cs
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets\msbuild.19. HTTP Response Headers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets\msbuild.build.19. HTTP Response Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.19. HTTP Response Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.19. HTTP Response Headers.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\scopedcss\bundle\19. HTTP Response Headers.styles.css
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\refint\19. HTTP Response Headers.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\19. HTTP Response Headers.genruntimeconfig.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\19. HTTP Response Headers\obj\Debug\net8.0\ref\19. HTTP Response Headers.dll

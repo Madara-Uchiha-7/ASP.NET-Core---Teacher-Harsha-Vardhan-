@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E92F9D7-87A6-4A05-B6F5-F290DCE44ABA}|26. Notes\\26. Notes.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\26. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E92F9D7-87A6-4A05-B6F5-F290DCE44ABA}|26. Notes\\26. Notes.csproj|solutionrelative:26. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7ED13B-52CE-4043-BBDC-8FBAAD1E9147}|25. HTTP Get vs Post - Part 2\\25. HTTP Get vs Post - Part 2.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\25. http get vs post - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7ED13B-52CE-4043-BBDC-8FBAAD1E9147}|25. HTTP Get vs Post - Part 2\\25. HTTP Get vs Post - Part 2.csproj|solutionrelative:25. http get vs post - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6B28BC-6453-4C5A-99B6-BEA00E4287A1}|23. Postman\\23. Postman.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\23. postman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6B28BC-6453-4C5A-99B6-BEA00E4287A1}|23. Postman\\23. Postman.csproj|solutionrelative:23. postman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1777392C-9A6E-47CD-838D-8DE6F457189C}|24. HTTP Get vs Post - Part 1\\24. HTTP Get vs Post - Part 1.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\24. http get vs post - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1777392C-9A6E-47CD-838D-8DE6F457189C}|24. HTTP Get vs Post - Part 1\\24. HTTP Get vs Post - Part 1.csproj|solutionrelative:24. http get vs post - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DA24C9-E80E-435F-85D0-84A740634D5B}|22. HTTP Request Headers\\22. HTTP Request Headers.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\22. http request headers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DA24C9-E80E-435F-85D0-84A740634D5B}|22. HTTP Request Headers\\22. HTTP Request Headers.csproj|solutionrelative:22. http request headers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15FB262-1A9D-416C-9CFE-D0AADBC3A406}|21. Query String\\21. Query String.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\21. query string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15FB262-1A9D-416C-9CFE-D0AADBC3A406}|21. Query String\\21. Query String.csproj|solutionrelative:21. query string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C4E1BF-A21D-4EE1-BE1E-311A8D4A8B42}|20. HTTP Request\\20. HTTP Request.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\20. http request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C4E1BF-A21D-4EE1-BE1E-311A8D4A8B42}|20. HTTP Request\\20. HTTP Request.csproj|solutionrelative:20. http request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791DA56-76C9-4FC4-B6ED-688E35522E88}|19. HTTP Response Headers\\19. HTTP Response Headers.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\19. http response headers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791DA56-76C9-4FC4-B6ED-688E35522E88}|19. HTTP Response Headers\\19. HTTP Response Headers.csproj|solutionrelative:19. http response headers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01037AAC-96F0-44D7-A425-F5BEA394E6C0}|18. HTTP Status Codes\\18. HTTP Status Codes.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\18. http status codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01037AAC-96F0-44D7-A425-F5BEA394E6C0}|18. HTTP Status Codes\\18. HTTP Status Codes.csproj|solutionrelative:18. http status codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEF3957-2C53-4AB4-A3F6-5839352F5583}|17. HTTP Response\\17. HTTP Response.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\17. http response\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEF3957-2C53-4AB4-A3F6-5839352F5583}|17. HTTP Response\\17. HTTP Response.csproj|solutionrelative:17. http response\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5CC501-773F-4562-A022-B782DDFF6154}|16. Introduction to HTTP\\16. Introduction to HTTP.csproj|c:\\users\\chinm\\source\\repos\\3. http [mvc and web api]\\16. introduction to http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5CC501-773F-4562-A022-B782DDFF6154}|16. Introduction to HTTP\\16. Introduction to HTTP.csproj|solutionrelative:16. introduction to http\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\26. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "26. Notes\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\26. Notes\\Program.cs",
+              "RelativeToolTip": "26. Notes\\Program.cs",
+              "ViewState": "AQIAAK8CAAAAAAAAAAAAAJMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T05:48:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\25. HTTP Get vs Post - Part 2\\Program.cs",
+              "RelativeDocumentMoniker": "25. HTTP Get vs Post - Part 2\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\25. HTTP Get vs Post - Part 2\\Program.cs",
+              "RelativeToolTip": "25. HTTP Get vs Post - Part 2\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:05:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\24. HTTP Get vs Post - Part 1\\Program.cs",
+              "RelativeDocumentMoniker": "24. HTTP Get vs Post - Part 1\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\24. HTTP Get vs Post - Part 1\\Program.cs",
+              "RelativeToolTip": "24. HTTP Get vs Post - Part 1\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwDIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:48:50.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\23. Postman\\Program.cs",
+              "RelativeDocumentMoniker": "23. Postman\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\23. Postman\\Program.cs",
+              "RelativeToolTip": "23. Postman\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:14:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\22. HTTP Request Headers\\Program.cs",
+              "RelativeDocumentMoniker": "22. HTTP Request Headers\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\22. HTTP Request Headers\\Program.cs",
+              "RelativeToolTip": "22. HTTP Request Headers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:42:54.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\21. Query String\\Program.cs",
+              "RelativeDocumentMoniker": "21. Query String\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\21. Query String\\Program.cs",
+              "RelativeToolTip": "21. Query String\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:03:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\20. HTTP Request\\Program.cs",
+              "RelativeDocumentMoniker": "20. HTTP Request\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\20. HTTP Request\\Program.cs",
+              "RelativeToolTip": "20. HTTP Request\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:13:40.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\19. HTTP Response Headers\\Program.cs",
+              "RelativeDocumentMoniker": "19. HTTP Response Headers\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\19. HTTP Response Headers\\Program.cs",
+              "RelativeToolTip": "19. HTTP Response Headers\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:05:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\18. HTTP Status Codes\\Program.cs",
+              "RelativeDocumentMoniker": "18. HTTP Status Codes\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\18. HTTP Status Codes\\Program.cs",
+              "RelativeToolTip": "18. HTTP Status Codes\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:58:14.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\17. HTTP Response\\Program.cs",
+              "RelativeDocumentMoniker": "17. HTTP Response\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\17. HTTP Response\\Program.cs",
+              "RelativeToolTip": "17. HTTP Response\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:17:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\16. Introduction to HTTP\\Program.cs",
+              "RelativeDocumentMoniker": "16. Introduction to HTTP\\Program.cs",
+              "ToolTip": "C:\\Users\\chinm\\source\\repos\\3. HTTP [MVC and Web API]\\16. Introduction to HTTP\\Program.cs",
+              "RelativeToolTip": "16. Introduction to HTTP\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:55:07.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

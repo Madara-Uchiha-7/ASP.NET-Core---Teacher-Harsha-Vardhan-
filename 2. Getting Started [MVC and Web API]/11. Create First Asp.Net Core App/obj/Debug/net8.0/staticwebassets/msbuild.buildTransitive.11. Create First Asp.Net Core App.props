@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\11. Create First Asp.Net Core App.props" />
+</Project>

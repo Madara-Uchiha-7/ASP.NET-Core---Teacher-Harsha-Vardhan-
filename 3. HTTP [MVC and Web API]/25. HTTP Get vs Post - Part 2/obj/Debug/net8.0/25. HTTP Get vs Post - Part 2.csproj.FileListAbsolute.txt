@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\25. HTTP Get vs Post - Part 2.exe
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\25. HTTP Get vs Post - Part 2.deps.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\25. HTTP Get vs Post - Part 2.runtimeconfig.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\25. HTTP Get vs Post - Part 2.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\bin\Debug\net8.0\25. HTTP Get vs Post - Part 2.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.AssemblyInfo.cs
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets\msbuild.25. HTTP Get vs Post - Part 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets\msbuild.build.25. HTTP Get vs Post - Part 2.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.25. HTTP Get vs Post - Part 2.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.25. HTTP Get vs Post - Part 2.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\scopedcss\bundle\25. HTTP Get vs Post - Part 2.styles.css
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\refint\25. HTTP Get vs Post - Part 2.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\25. HTTP Get vs Post - Part 2.genruntimeconfig.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\25. HTTP Get vs Post - Part 2\obj\Debug\net8.0\ref\25. HTTP Get vs Post - Part 2.dll

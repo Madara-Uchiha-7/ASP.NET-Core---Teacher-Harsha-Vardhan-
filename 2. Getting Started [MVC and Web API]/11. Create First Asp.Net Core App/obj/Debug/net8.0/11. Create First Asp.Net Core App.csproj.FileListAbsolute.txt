@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\11. Create First Asp.Net Core App.exe
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\11. Create First Asp.Net Core App.deps.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\11. Create First Asp.Net Core App.runtimeconfig.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\11. Create First Asp.Net Core App.dll
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\bin\Debug\net8.0\11. Create First Asp.Net Core App.pdb
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.AssemblyInfo.cs
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets\msbuild.11. Create First Asp.Net Core App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets\msbuild.build.11. Create First Asp.Net Core App.props
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.11. Create First Asp.Net Core App.props
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.11. Create First Asp.Net Core App.props
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\scopedcss\bundle\11. Create First Asp.Net Core App.styles.css
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.dll
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\refint\11. Create First Asp.Net Core App.dll
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.pdb
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\11. Create First Asp.Net Core App.genruntimeconfig.cache
+C:\Users\chinm\source\repos\10. Setup Environment [MVC and Web API]\11. Create First Asp.Net Core App\obj\Debug\net8.0\ref\11. Create First Asp.Net Core App.dll

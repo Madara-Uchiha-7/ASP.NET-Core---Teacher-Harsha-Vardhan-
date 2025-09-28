@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Setup Environment", "10. Setup Environment\10. Setup Environment.csproj", "{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Create First Asp.Net Core App", "11. Create First Asp.Net Core App\11. Create First Asp.Net Core App.csproj", "{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Kestrel and Other Servers", "12. Kestrel and Other Servers\12. Kestrel and Other Servers.csproj", "{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. launchSettings.json", "13. launchSettings.json\13. launchSettings.json.csproj", "{613BBB04-E8D5-4438-8EFA-B5E079AA5275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Notes", "14. Notes\14. Notes.csproj", "{60200154-5AA5-40F3-AF52-261624593AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAB5AFE-ADA8-43D2-9716-03A9768B18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03A4C33-6BFD-4552-9F70-B3EE3A0B37CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999BC6BA-7B8B-46F3-9A41-256B6AF7F5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613BBB04-E8D5-4438-8EFA-B5E079AA5275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613BBB04-E8D5-4438-8EFA-B5E079AA5275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613BBB04-E8D5-4438-8EFA-B5E079AA5275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613BBB04-E8D5-4438-8EFA-B5E079AA5275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60200154-5AA5-40F3-AF52-261624593AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60200154-5AA5-40F3-AF52-261624593AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60200154-5AA5-40F3-AF52-261624593AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60200154-5AA5-40F3-AF52-261624593AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AE13EC-E734-4C38-A0F1-E3804E79DAC7}
+	EndGlobalSection
+EndGlobal

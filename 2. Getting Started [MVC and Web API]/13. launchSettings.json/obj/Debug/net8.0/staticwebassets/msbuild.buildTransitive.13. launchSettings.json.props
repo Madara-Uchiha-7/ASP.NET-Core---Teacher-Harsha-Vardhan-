@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\13. launchSettings.json.props" />
+</Project>

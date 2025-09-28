@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\22. HTTP Request Headers.props" />
+</Project>

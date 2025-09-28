@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\21. Query String.exe
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\21. Query String.deps.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\21. Query String.runtimeconfig.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\21. Query String.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\bin\Debug\net8.0\21. Query String.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.AssemblyInfo.cs
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets\msbuild.21. Query String.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets\msbuild.build.21. Query String.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.21. Query String.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.21. Query String.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\scopedcss\bundle\21. Query String.styles.css
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\refint\21. Query String.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\21. Query String.genruntimeconfig.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\21. Query String\obj\Debug\net8.0\ref\21. Query String.dll

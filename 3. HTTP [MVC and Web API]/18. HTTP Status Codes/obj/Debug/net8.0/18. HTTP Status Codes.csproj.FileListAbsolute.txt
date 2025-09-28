@@ -1,0 +1,25 @@
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\appsettings.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\18. HTTP Status Codes.exe
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\18. HTTP Status Codes.deps.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\18. HTTP Status Codes.runtimeconfig.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\18. HTTP Status Codes.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\bin\Debug\net8.0\18. HTTP Status Codes.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.AssemblyInfoInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.AssemblyInfo.cs
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets\msbuild.18. HTTP Status Codes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets\msbuild.build.18. HTTP Status Codes.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.18. HTTP Status Codes.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.18. HTTP Status Codes.props
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\scopedcss\bundle\18. HTTP Status Codes.styles.css
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\refint\18. HTTP Status Codes.dll
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.pdb
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\18. HTTP Status Codes.genruntimeconfig.cache
+C:\Users\chinm\source\repos\3. HTTP [MVC and Web API]\18. HTTP Status Codes\obj\Debug\net8.0\ref\18. HTTP Status Codes.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\25. HTTP Get vs Post - Part 2.props" />
+</Project>
