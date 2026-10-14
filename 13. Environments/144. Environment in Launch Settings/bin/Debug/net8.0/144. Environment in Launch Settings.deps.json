@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "144. Environment in Launch Settings/1.0.0": {
+        "runtime": {
+          "144. Environment in Launch Settings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "144. Environment in Launch Settings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

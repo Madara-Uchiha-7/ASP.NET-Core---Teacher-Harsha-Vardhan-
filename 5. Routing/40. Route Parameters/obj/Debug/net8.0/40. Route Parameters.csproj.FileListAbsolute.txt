@@ -1,0 +1,26 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\40. Route Parameters.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\40. Route Parameters.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\40. Route Parameters.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\40. Route Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\bin\Debug\net8.0\40. Route Parameters.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets\msbuild.40. Route Parameters.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets\msbuild.build.40. Route Parameters.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.40. Route Parameters.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.40. Route Parameters.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\scopedcss\bundle\40. Route Parameters.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\refint\40. Route Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\40. Route Parameters.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\40. Route Parameters\obj\Debug\net8.0\ref\40. Route Parameters.dll

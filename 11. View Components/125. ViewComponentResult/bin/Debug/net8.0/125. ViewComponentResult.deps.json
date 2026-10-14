@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "125. ViewComponentResult/1.0.0": {
+        "runtime": {
+          "125. ViewComponentResult.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "125. ViewComponentResult/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

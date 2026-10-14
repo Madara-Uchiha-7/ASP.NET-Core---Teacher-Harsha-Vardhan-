@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B01E7C2D-3816-421A-A914-DA8B336CAE54}|Notes\\Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\6. controllers \u0026 iactionresult\\notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B01E7C2D-3816-421A-A914-DA8B336CAE54}|Notes\\Notes.csproj|solutionrelative:notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\6. controllers \u0026 iactionresult\\60. redirect results - part 2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|solutionrelative:60. redirect results - part 2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\6. controllers \u0026 iactionresult\\60. redirect results - part 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|solutionrelative:60. redirect results - part 2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\6. controllers \u0026 iactionresult\\60. redirect results - part 2\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|solutionrelative:60. redirect results - part 2\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\6. controllers \u0026 iactionresult\\60. redirect results - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F47429-5016-4661-8A13-8D62EB7E651F}|60. Redirect Results - Part 2\\60. Redirect Results - Part 2.csproj|solutionrelative:60. redirect results - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\Notes\\Program.cs",
+              "RelativeDocumentMoniker": "Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\Notes\\Program.cs",
+              "RelativeToolTip": "Notes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:40:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "60. Redirect Results - Part 2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "60. Redirect Results - Part 2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:35:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "60. Redirect Results - Part 2\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "60. Redirect Results - Part 2\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:35:33.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Program.cs",
+              "RelativeDocumentMoniker": "60. Redirect Results - Part 2\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Program.cs",
+              "RelativeToolTip": "60. Redirect Results - Part 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:35:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "60. Redirect Results - Part 2\\Models\\Person.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers \u0026 IActionResult\\60. Redirect Results - Part 2\\Models\\Person.cs",
+              "RelativeToolTip": "60. Redirect Results - Part 2\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:33:52.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

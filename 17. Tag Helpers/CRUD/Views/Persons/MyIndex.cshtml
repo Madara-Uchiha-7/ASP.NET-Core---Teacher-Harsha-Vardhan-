@@ -1,0 +1,125 @@
+﻿@model IEnumerable<PersonResponse>﻿
+@{
+ViewBag.Title = "Persons";
+}
+<form action="~/persons/index" method="get">
+<h1>Persons</h1>
+<div class="box flex">
+    <div class="flex-1">
+        <select class="form-input" name="searchBy">
+            @foreach (var field in ViewBag.SearchFields)
+            {
+                if (field.Key == ViewBag.currentSearchBy)
+                {
+                    <option value="@field.Key" selected="selected">@field.Value</option>                       
+                }
+                else
+                {
+                    <option value="@field.Key">@field.Value</option>
+                }
+            }
+        </select>
+    </div>
+    <div class="flex-1">
+        <input 
+            type="search" 
+            id="Search"
+            class="form-input" 
+            placeholder="Search" 
+            name="searchString"
+            value="@ViewBag.currentSearchString"
+        />
+    </div>
+    <div class="flex-1">
+        <button class="button button-blue-back">Search</button>
+        <a href="~/persons/index" class="link-hover">Clear All</a>
+    </div>
+</div>
+<table class="table w-100 mt">
+    <thead>
+            @{
+                    string searchByViewBagValue = ViewBag.currentSearchBy;
+                    string searchStringViewBagValue = ViewBag.currentSearchString;
+                    string defaultColumnHeadUrl = $@"/persons/index?searchBy={searchByViewBagValue}&searchString={searchStringViewBagValue}";
+
+                    if (ViewBag.currentSortBy == nameof(PersonResponse.Name)
+                        && ViewBag.currentSortOrder == SortOrderOptions.DESC)
+                    {
+                    defaultColumnHeadUrl += $@"&sortBy={nameof(PersonResponse.Name)}&sortOrder={SortOrderOptions.ASC.ToString()}";
+                    }
+                    else if (ViewBag.currentSortBy == nameof(PersonResponse.Name)
+                    && ViewBag.currentSortOrder == SortOrderOptions.ASC)
+                    {
+                    defaultColumnHeadUrl += $@"&sortBy={nameof(PersonResponse.Name)}&sortOrder={SortOrderOptions.DESC.ToString()}";
+                    }
+                }
+        <tr>
+            <th>
+                <a href="@defaultColumnHeadUrl">
+                    Name
+                </a>
+                @{
+                    if (ViewBag.currentSortOrder == SortOrderOptions.ASC)
+                    {
+                            <i class="fa-solid fa-sort-up"></i>
+                    } 
+                    else
+                    {
+                        <i class="fa-solid fa-sort-down"></i>
+                    }
+                 }
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Email
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Date Of Birth
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Age
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Gender
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Country
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Address
+                </a>
+            </th>
+            <th>
+                <a href="~/persons/index">
+                    Receive News Letter
+                </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(PersonResponse person in Model)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.Email</td>
+                <td>@person.DateOfBirth?.ToString("dd MMM yyyy")</td>
+                <td>@person.Age</td>
+                <td>@person.Gender</td>
+                <td>@person.Country</td>
+                <td>@person.Address</td>
+                <td>@person.ReceiveNewsLetters</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</form>

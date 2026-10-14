@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="195. Getting Started With UI/195. Getting Started With UI.csproj" />
+  <Project Path="196. Mock Data/196. Mock Data.csproj" Id="dcde9d67-9bbe-4301-8e05-1cc7d843bfac" />
+  <Project Path="197. List View/197. List View.csproj" Id="c7d8937d-11a1-4e7a-a115-775cdab3b5a8" />
+  <Project Path="199. Search in List View - 1/198. Search in List View - 1.csproj" Id="f57971c7-9a1e-4da3-b512-1c23f05687cf" />
+  <Project Path="199. Search in List View - 2/199. Search in List View - 2.csproj" Id="3c4ee1d2-6241-487a-8f3e-76557c8d3a6a" />
+  <Project Path="200. Sort in List View - 1/200. Sort in List View - 1.csproj" Id="177da0bb-e96c-4ccc-851d-d72ed4b76e3d" />
+  <Project Path="201. Sort in List View - 2/201. Sort in List View - 2.csproj" Id="6f5d2769-2138-40e8-ba0d-870c8a43d391" />
+  <Project Path="202. Create View - Part 1/202. Create View - Part 1.csproj" Id="d4b0fd86-1be0-4ed7-a6fc-d2aaa7b4b9dd" />
+  <Project Path="203. Create View - 2/203. Create View - 2.csproj" Id="92b6ce28-82f5-4099-99e3-d3e59aa14006" />
+  <Project Path="204. Attribute Routing/204. Attribute Routing.csproj" Id="816871dd-ba1a-47d2-bb7b-123d74ff5451" />
+  <Project Path="205. Notes/205. Notes.csproj" Id="90732118-fe78-4584-b57f-6e73440b2321" />
+  <Project Path="CRUD/CRUD.csproj" />
+  <Project Path="CRUDTests/CRUDTests.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

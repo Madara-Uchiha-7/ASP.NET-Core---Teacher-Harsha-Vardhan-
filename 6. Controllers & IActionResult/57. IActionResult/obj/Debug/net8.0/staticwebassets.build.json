@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/ZshBp4XZIW2/OzSmhEP8g3x+Ly35Ss6a83uOaE8KKE=",
+  "Source": "57. IActionResult",
+  "BasePath": "_content/57. IActionResult",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "57. IActionResult\\wwwroot",
+      "Source": "57. IActionResult",
+      "ContentRoot": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers & IActionResult\\57. IActionResult\\wwwroot\\",
+      "BasePath": "_content/57. IActionResult",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

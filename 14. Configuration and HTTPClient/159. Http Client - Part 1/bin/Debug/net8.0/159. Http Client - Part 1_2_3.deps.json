@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "159. Http Client - Part 1_2_3/1.0.0": {
+        "runtime": {
+          "159. Http Client - Part 1_2_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "159. Http Client - Part 1_2_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

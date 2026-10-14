@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "52. Multiple Action Methods/1.0.0": {
+        "runtime": {
+          "52. Multiple Action Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "52. Multiple Action Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

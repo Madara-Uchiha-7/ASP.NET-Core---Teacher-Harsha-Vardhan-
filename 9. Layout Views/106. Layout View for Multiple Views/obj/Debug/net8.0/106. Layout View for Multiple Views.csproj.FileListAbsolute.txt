@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\bin\Debug\net8.0\106. Layout View for Multiple Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\scopedcss\bundle\106. Layout View for Multiple Views.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\refint\106. Layout View for Multiple Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\106. Layout View for Multiple Views.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\106. Layout View for Multiple Views\obj\Debug\net8.0\ref\106. Layout View for Multiple Views.dll

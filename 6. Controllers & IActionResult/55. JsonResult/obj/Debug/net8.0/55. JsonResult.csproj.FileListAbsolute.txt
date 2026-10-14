@@ -1,0 +1,26 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\55. JsonResult.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\55. JsonResult.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\55. JsonResult.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\55. JsonResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\bin\Debug\net8.0\55. JsonResult.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets\msbuild.55. JsonResult.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets\msbuild.build.55. JsonResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.55. JsonResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.55. JsonResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\scopedcss\bundle\55. JsonResult.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\refint\55. JsonResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\55. JsonResult.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\55. JsonResult\obj\Debug\net8.0\ref\55. JsonResult.dll

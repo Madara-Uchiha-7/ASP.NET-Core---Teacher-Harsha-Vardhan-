@@ -1,0 +1,11 @@
+﻿<h1>Home</h1>
+@await Html.PartialAsync("_ListPartialView")
+
+@{
+    ViewData["ListTitle"] = "Title From Index View";
+    ViewData["ListItems"] = new List<string>() { "Canada", "New York", "Japan", "Rome" };
+}
+<partial name="_ListPartialView"></partial>
+
+<h3>Title from the index view. The Title is updated in the partial view but it will not impact here</h3>
+<h3>@ViewBag.ListTitle</h3>

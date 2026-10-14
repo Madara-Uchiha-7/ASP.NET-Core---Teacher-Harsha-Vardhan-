@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\64. Query String vs Route Data.props" />
+</Project>

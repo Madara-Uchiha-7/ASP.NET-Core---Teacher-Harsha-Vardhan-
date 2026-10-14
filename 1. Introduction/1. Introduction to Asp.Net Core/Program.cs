@@ -47,12 +47,13 @@
 /// and in case if you create only controllers with models but no views it is said to be asp.net core web API.
 /// 
 /// Generally asp.net core web API is used to create restful services.
-/// So that it can receive the request and provide the data as response, only the data but not the views so that the front end can be created by
+/// So that it can receive the request and provide the data as response, 
+/// only the data but not the views so that the front end can be created by
 /// using any one of the web application or mobile application Frameworks.
 /// Such as for example you can create front end by using react, angular or mobile application Frameworks such as
 /// xamarin or ionic. For all these front ends the web API can act as a backend.
 /// In addition to that for simple and page focused scenarios razor pages is available and if the development team would like
 /// to use only c-sharp language both on the server side as well as client side also then you will prefer using asp.net Blazor 
-/// out of all these four flavors
+/// out of all these four flavors.
 /// 
 ///

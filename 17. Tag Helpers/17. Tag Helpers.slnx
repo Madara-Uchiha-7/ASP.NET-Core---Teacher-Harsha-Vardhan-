@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="207. Intro/207. Intro.csproj" />
+  <Project Path="208. Form Tag Helpers/208. Form Tag Helpers.csproj" />
+  <Project Path="209. Input Tag Helpers - 1/209. Input Tag Helpers - 1.csproj" Id="f22db3fd-f5c6-411e-9ff6-e82f28ad0729" />
+  <Project Path="210. Input Tag Helpers - 2/210. Input Tag Helpers - 2.csproj" Id="a0583b1d-7c76-40b6-90ed-1a46667d6663" />
+  <Project Path="211. Client Side Validations/211. Client Side Validations.csproj" Id="c1939cb0-d785-4657-9157-2089375e8123" />
+  <Project Path="212. Script Tag Helpers/212. Script Tag Helpers.csproj" Id="ff904b17-e00e-43c9-95db-94e4b2e0a8f8" />
+  <Project Path="213. Image Tag Helpers/213. Image Tag Helpers.csproj" Id="634780c7-c838-4ebe-ae36-8c92ac00b8a1" />
+  <Project Path="214. Edit View/214. Edit View.csproj" Id="23dea6f3-9f0d-42d8-833c-334dab61652b" />
+  <Project Path="215. Delete View/215. Delete View.csproj" Id="a0514db2-d448-464f-85cb-61193c49a758" />
+  <Project Path="216. Notes/216. Notes.csproj" Id="487aeaea-ac4f-45d2-a020-fb55939df2db" />
+  <Project Path="CRUD/CRUD.csproj" />
+  <Project Path="CRUDTests/CRUDTests.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

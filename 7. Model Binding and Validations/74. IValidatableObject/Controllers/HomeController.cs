@@ -1,0 +1,26 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using _74._IValidatableObject.Models;
+
+namespace _74._IValidatableObject.Controllers
+{
+    public class HomeController : Controller
+    {
+        [Route("register")]
+        public IActionResult Index(Person person)
+        {
+            if (!ModelState.IsValid)
+            {
+                var errors = new List<string>();
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        errors.Add(error.ErrorMessage);
+                    }
+                }
+                return BadRequest(string.Join("\n", errors));
+            }
+            return Content($"{person}");
+        }
+    }
+}

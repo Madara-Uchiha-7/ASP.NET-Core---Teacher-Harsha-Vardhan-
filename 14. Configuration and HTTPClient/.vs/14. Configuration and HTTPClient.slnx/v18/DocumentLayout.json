@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ABA698-EB2B-41CE-A040-77767B78960F}|Notes\\Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\notes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1ABA698-EB2B-41CE-A040-77767B78960F}|Notes\\Notes.csproj|solutionrelative:notes\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ABA698-EB2B-41CE-A040-77767B78960F}|Notes\\Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1ABA698-EB2B-41CE-A040-77767B78960F}|Notes\\Notes.csproj|solutionrelative:notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\159. http client - part 1_2_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\159. http client - part 1_2_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\14. configuration and httpclient\\159. http client - part 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51B08503-A108-4ADA-81A0-B0260501B62B}|159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj|solutionrelative:159. http client - part 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\Notes\\Program.cs",
+              "RelativeDocumentMoniker": "Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\Notes\\Program.cs",
+              "RelativeToolTip": "Notes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T09:56:15.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\Notes\\README.txt",
+              "RelativeDocumentMoniker": "Notes\\README.txt",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\Notes\\README.txt",
+              "RelativeToolTip": "Notes\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoEAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-28T09:56:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Models\\Stock.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Models\\Stock.cs",
+              "RelativeToolTip": "159. Http Client - Part 1\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T09:44:14.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "159. Http Client - Part 1\\ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T08:05:57.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\wwwroot\\StyleSheet.css",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "159. Http Client - Part 1\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAANMBAAAAAAAAAAAowDkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-20T17:45:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "159. Http Client - Part 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-20T17:41:03.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "159. Http Client - Part 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T17:38:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "159. Http Client - Part 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-20T18:42:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Program.cs",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Program.cs",
+              "RelativeToolTip": "159. Http Client - Part 1\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T17:34:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Services\\FinnhubService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "159. Http Client - Part 1\\Services\\FinnhubService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T18:52:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "159. Http Client - Part 1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-20T17:50:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "159. Http Client - Part 1_2_3",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj",
+              "RelativeDocumentMoniker": "159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\14. Configuration and HTTPClient\\159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj",
+              "RelativeToolTip": "159. Http Client - Part 1\\159. Http Client - Part 1_2_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-26T10:06:05.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

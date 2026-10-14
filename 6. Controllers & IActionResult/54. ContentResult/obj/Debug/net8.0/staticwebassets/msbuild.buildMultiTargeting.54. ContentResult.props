@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\54. ContentResult.props" />
+</Project>

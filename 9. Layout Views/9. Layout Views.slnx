@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="104. Creating Layout View - 1/104. Creating Layout View - 1.csproj" />
+  <Project Path="105. Creating Layout View - 2/105. Creating Layout View - 2.csproj" Id="2511c90e-a00b-4a38-a344-476364368133" />
+  <Project Path="106. Layout View for Multiple Views/106. Layout View for Multiple Views.csproj" Id="2b39c84a-7671-4fa0-adef-ffc4bbf22662" />
+  <Project Path="107. ViewData in Layout Views/107. ViewData in Layout Views.csproj" Id="0279dcb3-abb6-4570-a4ad-7acfaa0524fe" />
+  <Project Path="108. _ViewStart.cshtml/108. _ViewStart.cshtml.csproj" Id="94b2273d-4df2-46fb-80a0-4d7666161fb0" />
+  <Project Path="109. Dynamic Layout View/109. Dynamic Layout View.csproj" Id="6de92dc8-0676-452e-8918-65341eef46f9" />
+  <Project Path="110. Layout Views Sections/110. Layout Views Sections.csproj" Id="5e95220f-7e9e-4c34-807a-667a37cc3411" />
+  <Project Path="111. Nested Layout Views/111. Nested Layout Views.csproj" Id="d76ae619-d95b-41a7-80dd-0bb09222d53d" />
+  <Project Path="112. Notes/112. Notes.csproj" Id="927b5990-929b-4f89-ad76-c6be90d958e0" />
+</Solution>

@@ -1,0 +1,81 @@
+We start the code with few questions in our mind.
+
+	1. What data is user going to enter from UI.
+	2. The data which user going to enter, is related to what?
+
+For e.g. User can enter the data related to Person in the Person Form.
+		 and lets UI also allows user to add the person Country, So each person has a Country also.
+
+In this case:
+We have the Person and the Country data.
+The person can have the name, address, country name, date of birth etc.
+and country can have country name.
+
+So we create the classes for point 2 i.e. "The data which user going to enter, is related to what?"
+In this case data is related to Person and Country.
+So class will be Person class and Country class.
+
+So,
+1st depending on our project's requirement, we create the data model.
+
+Now, for Person and Country class, we create a project called as "Entities".
+
+-------------------> Part 1 Ended 
+
+In those classes we define the properties which user is going to add from UI and 
+the properties which we need to save in the database.
+
+For e.g. In UI, there is a person form, in which user enters the data like his name, address etc,
+So in that class we will define the propertis as Name, Address, etc.
+
+Each class will have the ID property with GUID as a type. Why? because we want each data to be 
+unique. So that when on UI we show all the People we will get all the unique data.
+Because there is always a possibility that Person has same name and address and country etc.
+
+Since each person will have the unique ID, it will act as the primary key in the database.
+Same for country, each country will have the unique ID.
+In our case we will already have countries filled in the database. So that 
+when user will try to create a person, he will have the option to select the country from the dropdown.
+Each country will have its own unique ID.
+
+-------------------> Part 2 Ended 
+
+We use [Key] attribute above the property name, so that EF will treat it as the Primary Key.
+We have more, like for type string we use [StringLength(number)] attribute.
+For DateTime and bool type we do not have to mention any attribute, EF will understand it automatically.
+
+Now, we want our one table to have a connection to another table,
+that is we want to have the foreign key in our table.
+That is in our class we will have to define the foreign key also right ...
+Becuase from our class the table will be created.
+
+So, we need 2 things in such cases.
+I.e. in our Person class we will have to define the 2 properties in case for foreign key.
+Why ..?
+In our case we want our Person class to have a foreign key of Country.
+and we want to show the Country Name of that Person on the UI when we show all the People.
+
+So, lets say on UI, we want show the Persons.
+For that user need to create a Person.
+So on person form,
+when user will click on create a person called "Ketan" with Country "India",
+in data base as per our code, 
+the "India" will have some unique ID right, 
+so because we want to connect the India to the Person we will create our 1st property:
+public Guid? CountryID { get; set; }
+
+When we create a person in our create person method, we will add the ID of country India with "Ketan".
+I.e. from UI, when user clicks on Create Person, we will assign the ID of India to this CountryID property.
+
+But this is not complete, this is still not the foreign key.
+To define the foreign key to the property we do:
+
+[ForeignKey(nameof(CountryID))]
+public virtual Country? Country { get; set; }
+
+So the type will be "Country" in this case, because we want to connect the "Country" table to our Person table.
+The "Country" property will be a foreign key.
+We use "ForeignKey" attribute for this.
+And we make a connection using "nameof(CountryID)" where ID of the country is stored.
+
+-------------------> Part 3 Ended 

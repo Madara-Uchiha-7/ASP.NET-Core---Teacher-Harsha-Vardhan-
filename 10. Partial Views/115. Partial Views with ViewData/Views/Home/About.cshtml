@@ -1,0 +1,26 @@
+﻿<h1>About</h1>
+<p>
+    View Data before we send them to the Partial View using PartialAsync and RenderPartialAsync.
+    <div class="box">
+        <ul class="list">
+            @foreach (string city in ViewBag.ListItems)
+            {
+                <li>@city</li>
+            }
+        </ul>
+    </div>
+</p>
+
+
+@{
+    ViewDataDictionary myViewData = new ViewDataDictionary(ViewData);
+    myViewData["ListTitle"] = "Title From About View";
+    myViewData["ListItems"] = new List<string>() { "Mumbai", "Pune", "Bhopal" };
+}
+<p>New View Data Object after we send them to the Partial View using PartialAsync and RenderPartialAsync.</p>
+@await Html.PartialAsync("_ListPartialView", myViewData)
+<div class="box">
+    @{
+        await Html.RenderPartialAsync("_ListPartialView", myViewData);
+    }
+</div>

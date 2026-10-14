@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\bin\Debug\net8.0\150. Configuration Basics.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\scopedcss\bundle\150. Configuration Basics.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\refint\150. Configuration Basics.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\150. Configuration Basics.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\150. Configuration Basics\obj\Debug\net8.0\ref\150. Configuration Basics.dll

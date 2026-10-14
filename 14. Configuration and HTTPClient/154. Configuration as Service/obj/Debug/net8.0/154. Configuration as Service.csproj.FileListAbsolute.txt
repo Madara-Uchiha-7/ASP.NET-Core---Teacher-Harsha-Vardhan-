@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\bin\Debug\net8.0\154. Configuration as Service.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\scopedcss\bundle\154. Configuration as Service.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\refint\154. Configuration as Service.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\154. Configuration as Service.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\154. Configuration as Service\obj\Debug\net8.0\ref\154. Configuration as Service.dll

@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\bin\Debug\net8.0\123. Strongly Typed View Components.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\scopedcss\bundle\123. Strongly Typed View Components.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\refint\123. Strongly Typed View Components.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\123. Strongly Typed View Components.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\11. View Components\123. Strongly Typed View Components\obj\Debug\net8.0\ref\123. Strongly Typed View Components.dll

@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\bin\Debug\net8.0\155. Environment Specific Configuration.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\scopedcss\bundle\155. Environment Specific Configuration.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\refint\155. Environment Specific Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\155. Environment Specific Configuration.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\155. Environment Specific Configuration\obj\Debug\net8.0\ref\155. Environment Specific Configuration.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "225. How EF Query Works/1.0.0": {
+        "runtime": {
+          "225. How EF Query Works.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "225. How EF Query Works/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

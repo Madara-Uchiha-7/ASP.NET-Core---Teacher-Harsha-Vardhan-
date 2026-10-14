@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+
+@{
+    PersonGridModel personGridModel = new PersonGridModel()
+    {
+        GridTitle = "Index View Gird Data",
+        people = new List<Person>() {
+            new Person()
+            {
+                JobTitle = "Software Developer",
+                Name = "Chinmay"
+            }
+        }
+    };
+
+    
+    PersonGridModel personGridModel2 = new PersonGridModel()
+    {
+        GridTitle = "Index View Gird Data",
+        people = new List<Person>() {
+            new Person()
+            {
+                JobTitle = "Senior Software Developer",
+                Name = "Chinmay"
+            }
+        }
+    };
+}
+
+@await Component.InvokeAsync("Grid", new
+{
+    x = 10,
+    y = 20,
+    viewPersonGridModel = personGridModel
+})
+
+@await Component.InvokeAsync("Grid", new
+{
+    x = 10,
+    y = 20,
+    viewPersonGridModel = personGridModel2
+})

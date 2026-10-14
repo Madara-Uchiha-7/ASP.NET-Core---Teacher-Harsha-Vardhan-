@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "giNNgc42AVINPux1JyBcymTQ6Rstq1lWJhX3LmdQzMw=",
+  "Source": "59. Redirect Results - Part 1",
+  "BasePath": "_content/59. Redirect Results - Part 1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "59. Redirect Results - Part 1\\wwwroot",
+      "Source": "59. Redirect Results - Part 1",
+      "ContentRoot": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\6. Controllers & IActionResult\\59. Redirect Results - Part 1\\wwwroot\\",
+      "BasePath": "_content/59. Redirect Results - Part 1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

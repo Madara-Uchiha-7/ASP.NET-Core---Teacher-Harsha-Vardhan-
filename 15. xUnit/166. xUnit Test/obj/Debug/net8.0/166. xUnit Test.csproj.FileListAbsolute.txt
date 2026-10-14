@@ -1,0 +1,31 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\bin\Debug\net8.0\166. xUnit Test.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\scopedcss\bundle\166. xUnit Test.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\refint\166. xUnit Test.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\166. xUnit Test.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\166. xUnit Test\obj\Debug\net8.0\ref\166. xUnit Test.dll

@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\bin\Debug\net8.0\115. Partial Views with ViewData.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\scopedcss\bundle\115. Partial Views with ViewData.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\refint\115. Partial Views with ViewData.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\115. Partial Views with ViewData.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\115. Partial Views with ViewData\obj\Debug\net8.0\ref\115. Partial Views with ViewData.dll

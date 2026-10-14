@@ -1,0 +1,26 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\66. Model Class.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\66. Model Class.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\66. Model Class.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\66. Model Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\bin\Debug\net8.0\66. Model Class.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets\msbuild.66. Model Class.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets\msbuild.build.66. Model Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.66. Model Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.66. Model Class.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\scopedcss\bundle\66. Model Class.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\refint\66. Model Class.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\66. Model Class.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\66. Model Class\obj\Debug\net8.0\ref\66. Model Class.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\51. Creating Controllers.props" />
+</Project>

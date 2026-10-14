@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\bin\Debug\net8.0\114. Creating Partial Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\scopedcss\bundle\114. Creating Partial Views.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\refint\114. Creating Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\114. Creating Partial Views.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\114. Creating Partial Views\obj\Debug\net8.0\ref\114. Creating Partial Views.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{927B5990-929B-4F89-AD76-C6BE90D958E0}|112. Notes\\112. Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\112. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927B5990-929B-4F89-AD76-C6BE90D958E0}|112. Notes\\112. Notes.csproj|solutionrelative:112. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\111. nested layout views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|solutionrelative:111. nested layout views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\111. nested layout views\\views\\products\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|solutionrelative:111. nested layout views\\views\\products\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\111. nested layout views\\views\\shared\\_productslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|solutionrelative:111. nested layout views\\views\\shared\\_productslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\111. nested layout views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|solutionrelative:111. nested layout views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\9. layout views\\111. nested layout views\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D76AE619-D95B-41A7-80DD-0BB09222D53D}|111. Nested Layout Views\\111. Nested Layout Views.csproj|solutionrelative:111. nested layout views\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\112. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "112. Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\112. Notes\\Program.cs",
+              "RelativeToolTip": "112. Notes\\Program.cs",
+              "ViewState": "AgIAAKQCAAAAAAAAAAAAALMCAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T12:03:47.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Products\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "111. Nested Layout Views\\Views\\Products\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Products\\_ViewStart.cshtml",
+              "RelativeToolTip": "111. Nested Layout Views\\Views\\Products\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T11:59:18.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "111. Nested Layout Views\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "111. Nested Layout Views\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T11:55:06.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ProductsLayout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_ProductsLayout.cshtml",
+              "RelativeDocumentMoniker": "111. Nested Layout Views\\Views\\Shared\\_ProductsLayout.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_ProductsLayout.cshtml",
+              "RelativeToolTip": "111. Nested Layout Views\\Views\\Shared\\_ProductsLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T11:52:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "111. Nested Layout Views\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "111. Nested Layout Views\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T11:51:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Program.cs",
+              "RelativeDocumentMoniker": "111. Nested Layout Views\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\9. Layout Views\\111. Nested Layout Views\\Program.cs",
+              "RelativeToolTip": "111. Nested Layout Views\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T11:43:55.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\bin\Debug\net8.0\196. Mock Data.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\scopedcss\bundle\196. Mock Data.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\refint\196. Mock Data.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\196. Mock Data.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\196. Mock Data\obj\Debug\net8.0\ref\196. Mock Data.dll

@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\bin\Debug\net8.0\188. Update Person - Creating DTO.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\scopedcss\bundle\188. Update Person - Creating DTO.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\refint\188. Update Person - Creating DTO.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\188. Update Person - Creating DTO.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\188. Update Person - Creating DTO\obj\Debug\net8.0\ref\188. Update Person - Creating DTO.dll

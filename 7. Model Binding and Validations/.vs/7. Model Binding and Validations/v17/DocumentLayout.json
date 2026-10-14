@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A589641-ADE8-45C5-860F-A45733A07E34}|82. Notes\\82. Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\82. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A589641-ADE8-45C5-860F-A45733A07E34}|82. Notes\\82. Notes.csproj|solutionrelative:82. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\custommodelbinders\\personbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\custommodelbinders\\personmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\customvalidators\\minimumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\customvalidators\\minimumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\7. model binding and validations\\81. input formatters\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D277997-5755-46B1-8ACF-0B98968D93A7}|81. Input Formatters\\81. Input Formatters.csproj|solutionrelative:81. input formatters\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\82. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "82. Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\82. Notes\\Program.cs",
+              "RelativeToolTip": "82. Notes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsFAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:51:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Program.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Program.cs",
+              "RelativeToolTip": "81. Input Formatters\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:30:28.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "81. Input Formatters\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:30:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModelBinder.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\CustomModelBinders\\PersonModelBinder.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomModelBinders\\PersonModelBinder.cs",
+              "RelativeToolTip": "81. Input Formatters\\CustomModelBinders\\PersonModelBinder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:30:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonBinderProvider.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\CustomModelBinders\\PersonBinderProvider.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomModelBinders\\PersonBinderProvider.cs",
+              "RelativeToolTip": "81. Input Formatters\\CustomModelBinders\\PersonBinderProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:29:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\Models\\Person.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\Models\\Person.cs",
+              "RelativeToolTip": "81. Input Formatters\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:29:42.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinimumYearValidationAttribute.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomValidators\\MinimumYearValidationAttribute.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\CustomValidators\\MinimumYearValidationAttribute.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomValidators\\MinimumYearValidationAttribute.cs",
+              "RelativeToolTip": "81. Input Formatters\\CustomValidators\\MinimumYearValidationAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:29:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateRangeValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "81. Input Formatters\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\7. Model Binding and Validations\\81. Input Formatters\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeToolTip": "81. Input Formatters\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:29:30.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

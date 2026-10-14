@@ -1,0 +1,22 @@
+﻿@* 
+    Make our view as a strongly typed view which we are returning from the Controller, 
+    that is bound to list of string. You can also bind to predefined classes or interfaces as well.
+    IEnumerable is the parent interface of the List class. So, it is recommended to mention the interface name
+    as the model class name here. Because in future, you may change your mind.
+    You may return a List or any other child of the IEnumerable. 
+    Maybe for example, a dictionary or anything like that. But still, this data type should work.
+    Thats the benifit.
+    So, finally, the model property here refers to a list of string that was supplied from the service.
+    Below we are looping over the data.
+*@
+@model IEnumerable<string>
+@{
+    ViewBag.Title = "Home";
+}
+<h1>Cities</h1>
+<ul class="list">
+    @foreach (string city in Model)
+    {
+        <li>@city</li>
+    }
+</ul>
