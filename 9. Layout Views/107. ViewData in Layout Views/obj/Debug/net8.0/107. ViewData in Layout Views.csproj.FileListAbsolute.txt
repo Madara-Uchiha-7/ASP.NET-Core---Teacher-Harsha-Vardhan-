@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\bin\Debug\net8.0\107. ViewData in Layout Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\scopedcss\bundle\107. ViewData in Layout Views.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\refint\107. ViewData in Layout Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\107. ViewData in Layout Views.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\104. Creating Layout View - 1\107. ViewData in Layout Views\obj\Debug\net8.0\ref\107. ViewData in Layout Views.dll

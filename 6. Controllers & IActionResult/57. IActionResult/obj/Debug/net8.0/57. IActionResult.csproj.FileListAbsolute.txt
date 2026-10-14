@@ -1,0 +1,27 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\bin\Debug\net8.0\57. IActionResult.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets\msbuild.57. IActionResult.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets\msbuild.build.57. IActionResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.57. IActionResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.57. IActionResult.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\scopedcss\bundle\57. IActionResult.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\refint\57. IActionResult.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\57. IActionResult.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\6. Controllers & IActionResult\57. IActionResult\obj\Debug\net8.0\ref\57. IActionResult.dll

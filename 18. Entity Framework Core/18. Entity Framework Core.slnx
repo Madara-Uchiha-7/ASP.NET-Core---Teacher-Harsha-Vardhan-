@@ -1,0 +1,28 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="MyNotes.txt" />
+  </Folder>
+  <Project Path="218. Intro/218. Intro.csproj" />
+  <Project Path="219. EFCore Approaches/219. EFCore Approaches.csproj" />
+  <Project Path="220. DbContext and DbSet/220. DbContext and DbSet.csproj" />
+  <Project Path="221. Connection String/221. Connection String.csproj" Id="bc1576ad-a6d0-47aa-81a3-bbb0a7071410" />
+  <Project Path="222. Seed Data/222. Seed Data.csproj" Id="633eb1c1-8105-4a2e-89f5-74a3c9eab6cc" />
+  <Project Path="223. Migrations/223. Migrations.csproj" Id="818ea36c-457d-49ce-93ee-8776678331d0" />
+  <Project Path="224. EF CRUD Operations/224. EF CRUD Operations.csproj" Id="2814299f-00ce-443e-84fc-a399be22e82d" />
+  <Project Path="225. How EF Query Works/225. How EF Query Works.csproj" Id="54071464-a2aa-41f0-b7b3-57334dae6b6c" />
+  <Project Path="226. EF Stored Proc/226. EF Stored Proc.csproj" Id="c2bea624-73f7-422f-b5b9-f2456b9b8794" />
+  <Project Path="227. EF Stored Proc with Parameters/227. EF Stored Proc with Parameters.csproj" Id="416ab332-e8c4-4036-a119-bd032f224874" />
+  <Project Path="228. Changes in Table Structure/228. Changes in Table Structure.csproj" Id="b9fddf81-8520-41e5-abb0-f4baa860e1f8" />
+  <Project Path="229. Fluent API 1/229. Fluent API 1.csproj" Id="9fce91a1-3082-4a2b-8272-d309a73b071c" />
+  <Project Path="230. Fluent API 2/230. Fluent API 2.csproj" Id="7cc07e06-d405-4a37-bf11-0ba2a136579f" />
+  <Project Path="231. Table relations with EF/231. Table relations with EF.csproj" Id="1b53b2e1-292f-44c3-9552-3ab33199b6af" />
+  <Project Path="232. Async EF Operations/232. Async EF Operations.csproj" Id="9f79c189-066a-4bb0-bd87-1e6bc1fa9f9b" />
+  <Project Path="233. Async Controller Action Methods/233. Async Controller Action Methods.csproj" Id="8fcf416c-8cca-4844-ae0c-4b80e7e07d33" />
+  <Project Path="234. Async Unit Test Methods/234. Async Unit Test Methods.csproj" Id="c953172e-b8e2-4faf-8705-3491182876c7" />
+  <Project Path="235. Generate PDF Files/235. Generate PDF Files.csproj" Id="598bb4ae-bed1-4e17-a0de-2e31d21cefc7" />
+  <Project Path="CRUD/CRUD.csproj" />
+  <Project Path="CRUDTests/CRUDTests.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

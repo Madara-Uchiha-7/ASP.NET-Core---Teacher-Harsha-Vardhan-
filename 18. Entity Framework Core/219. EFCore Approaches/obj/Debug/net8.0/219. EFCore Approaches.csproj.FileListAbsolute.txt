@@ -1,0 +1,31 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\bin\Debug\net8.0\219. EFCore Approaches.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\scopedcss\bundle\219. EFCore Approaches.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\refint\219. EFCore Approaches.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFCore Approaches.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\ref\219. EFCore Approaches.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\219. EFCore Approaches\obj\Debug\net8.0\219. EFC.B6AF320D.Up2Date

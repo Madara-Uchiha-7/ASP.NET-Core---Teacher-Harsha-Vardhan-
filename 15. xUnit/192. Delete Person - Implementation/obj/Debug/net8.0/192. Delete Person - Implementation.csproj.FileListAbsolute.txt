@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\bin\Debug\net8.0\192. Delete Person - Implementation.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\scopedcss\bundle\192. Delete Person - Implementation.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\refint\192. Delete Person - Implementation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\192. Delete Person - Implementation.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\192. Delete Person - Implementation\obj\Debug\net8.0\ref\192. Delete Person - Implementation.dll

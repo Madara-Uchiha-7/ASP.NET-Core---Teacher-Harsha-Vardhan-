@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\12. dependency injection\\136. service scope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|solutionrelative:136. service scope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\12. dependency injection\\136. service scope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|solutionrelative:136. service scope\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA70B4F-65A5-4F84-9C3F-BA4717EB1A6E}|Services_3\\Services_3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\12. dependency injection\\services_3\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA70B4F-65A5-4F84-9C3F-BA4717EB1A6E}|Services_3\\Services_3.csproj|solutionrelative:services_3\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\12. dependency injection\\136. service scope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AAB74E-E0A9-4224-9BDF-768D5642F3C5}|136. Service Scope\\136. Service Scope.csproj|solutionrelative:136. service scope\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "136. Service Scope\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "136. Service Scope\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T15:02:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "136. Service Scope\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "136. Service Scope\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T09:18:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitiesService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\Services_3\\CitiesService.cs",
+              "RelativeDocumentMoniker": "Services_3\\CitiesService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\Services_3\\CitiesService.cs",
+              "RelativeToolTip": "Services_3\\CitiesService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T07:03:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Program.cs",
+              "RelativeDocumentMoniker": "136. Service Scope\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\136. Service Scope\\Program.cs",
+              "RelativeToolTip": "136. Service Scope\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T06:57:05.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

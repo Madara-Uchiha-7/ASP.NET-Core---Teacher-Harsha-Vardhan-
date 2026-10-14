@@ -1,0 +1,38 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\136. Service Scope.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\ServiceContract_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\Services_3.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\ServiceContract_1.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\bin\Debug\net8.0\Services_3.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.csproj.AssemblyReference.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\scopedcss\bundle\136. Service Scope.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Ser.46A06007.Up2Date
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\refint\136. Service Scope.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\136. Service Scope.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\136. Service Scope\obj\Debug\net8.0\ref\136. Service Scope.dll

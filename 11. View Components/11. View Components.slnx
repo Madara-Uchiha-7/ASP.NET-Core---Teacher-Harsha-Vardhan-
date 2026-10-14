@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="120. Creating View Components - 1/120. Creating View Components - 1.csproj" />
+  <Project Path="121. Creating View Components - 2/121. Creating View Components - 2.csproj" />
+  <Project Path="122. View Components with ViewData/122. View Components with ViewData.csproj" Id="b4b4943a-8204-47e3-8798-450558269fc7" />
+  <Project Path="123. Strongly Typed View Components/123. Strongly Typed View Components.csproj" Id="c9d52591-8500-401c-a0e7-77b48832a9a7" />
+  <Project Path="124. View Components with Parameters/124. View Components with Parameters.csproj" Id="7650ad9c-f501-4f32-b4c2-2ce857726275" />
+  <Project Path="125. ViewComponentResult/125. ViewComponentResult.csproj" Id="7f9c146a-15a8-49db-97da-3b6248c32088" />
+  <Project Path="126. Notes/126. Notes.csproj" Id="366ced00-f389-4b61-b6c6-a810ffca53ad" />
+</Solution>

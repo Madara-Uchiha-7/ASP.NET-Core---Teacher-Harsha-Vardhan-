@@ -1,0 +1,31 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\bin\Debug\net8.0\227. EF Stored Proc with Parameters.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\scopedcss\bundle\227. EF Stored Proc with Parameters.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\refint\227. EF Stored Proc with Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF Stored Proc with Parameters.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\ref\227. EF Stored Proc with Parameters.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\227. EF Stored Proc with Parameters\obj\Debug\net8.0\227. EF .1EA864AB.Up2Date

@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\bin\Debug\net8.0\178. Add Person - Validation.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\scopedcss\bundle\178. Add Person - Validation.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\refint\178. Add Person - Validation.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\178. Add Person - Validation.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\15. xUnit\178. Add Person - Validation\obj\Debug\net8.0\ref\178. Add Person - Validation.dll

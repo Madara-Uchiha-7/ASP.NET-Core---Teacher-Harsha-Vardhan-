@@ -1,0 +1,6 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\7. Model Binding and Validations\78. Collection Binding\obj\Debug\net8.0\78. Collection Binding.sourcelink.json

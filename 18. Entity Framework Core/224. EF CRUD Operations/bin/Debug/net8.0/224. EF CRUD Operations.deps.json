@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "224. EF CRUD Operations/1.0.0": {
+        "runtime": {
+          "224. EF CRUD Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "224. EF CRUD Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

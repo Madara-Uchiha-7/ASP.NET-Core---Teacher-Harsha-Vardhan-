@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\48. WebRoot and UseStaticFiles.props" />
+</Project>

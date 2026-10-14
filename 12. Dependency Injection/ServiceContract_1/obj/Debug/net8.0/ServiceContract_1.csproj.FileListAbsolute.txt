@@ -1,0 +1,12 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\bin\Debug\net8.0\ServiceContract_1.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\bin\Debug\net8.0\ServiceContract_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\bin\Debug\net8.0\ServiceContract_1.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\refint\ServiceContract_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ServiceContract_1.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\ServiceContract_1\obj\Debug\net8.0\ref\ServiceContract_1.dll

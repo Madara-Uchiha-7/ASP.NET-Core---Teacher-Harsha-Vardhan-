@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "64. Query String vs Route Data/1.0.0": {
+        "runtime": {
+          "64. Query String vs Route Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "64. Query String vs Route Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

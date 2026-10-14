@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "W8QWUlciru017G8dCO/M8A2Vaj/fFv2yUwuFOsLm4W4=",
+  "Source": "48. WebRoot and UseStaticFiles",
+  "BasePath": "_content/48. WebRoot and UseStaticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "48. WebRoot and UseStaticFiles\\wwwroot",
+      "Source": "48. WebRoot and UseStaticFiles",
+      "ContentRoot": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing [MVC and Web API]\\48. WebRoot and UseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/48. WebRoot and UseStaticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing [MVC and Web API]\\48. WebRoot and UseStaticFiles\\wwwroot\\Anime.jpg",
+      "SourceId": "48. WebRoot and UseStaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing [MVC and Web API]\\48. WebRoot and UseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/48. WebRoot and UseStaticFiles",
+      "RelativePath": "Anime.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Anime.jpg"
+    },
+    {
+      "Identity": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing [MVC and Web API]\\48. WebRoot and UseStaticFiles\\wwwroot\\download (3).jpg",
+      "SourceId": "48. WebRoot and UseStaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing [MVC and Web API]\\48. WebRoot and UseStaticFiles\\wwwroot\\",
+      "BasePath": "_content/48. WebRoot and UseStaticFiles",
+      "RelativePath": "download (3).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\download (3).jpg"
+    }
+  ]
+}

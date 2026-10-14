@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\bin\Debug\net8.0\116. Strongly Typed Partial Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\scopedcss\bundle\116. Strongly Typed Partial Views.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\refint\116. Strongly Typed Partial Views.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\116. Strongly Typed Partial Views.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\10. Partial Views\116. Strongly Typed Partial Views\obj\Debug\net8.0\ref\116. Strongly Typed Partial Views.dll

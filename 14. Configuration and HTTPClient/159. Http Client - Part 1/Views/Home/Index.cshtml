@@ -1,0 +1,49 @@
+﻿@model _159._Http_Client___Part_1_2_3.Models.Stock 
+<!-- Abvove is From Part 3-->
+
+<!-- From Part 1-->
+@{
+// Below line will be rendered into the title tag of the layout view.
+ ViewBag.Title = "Home";
+}
+<!-- End of Part 1-->
+<!-- Below will be rendered at the RenderBody inside the _Layout.cshtml -->
+ 
+@* From Part 3*@
+<div class="box trading-panel">
+
+    <div class="flex trading-panel-flex">
+
+        <div id="stock-price-panel">
+
+            <div class="stock">
+                <h1 class="stock-title">@Model.StockSymbol</h1>
+
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Current:</td>
+                            <th><small>$</small> <span class="price">@Model.CurrentPrice.ToString("N")</span></th>
+                        </tr>
+
+                        <tr>
+                            <td>High:</td>
+                            <th><small>$</small> <span class="price">@Model.HighestPrice.ToString("N")</span></th>
+                        </tr>
+
+                        <tr>
+                            <td>Low:</td>
+                            <th><small>$</small> <span class="price">@Model.LowestPrice.ToString("N")</span></th>
+                        </tr>
+
+                        <tr>
+                            <td>Open:</td>
+                            <th><small>$</small> <span class="price">@Model.OpenPrice.ToString("N")</span></th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>

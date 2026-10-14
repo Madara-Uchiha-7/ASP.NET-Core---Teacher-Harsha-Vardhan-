@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\bin\Debug\net8.0\151. IConfiguration in Controller.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\scopedcss\bundle\151. IConfiguration in Controller.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\refint\151. IConfiguration in Controller.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\151. IConfiguration in Controller.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\151. IConfiguration in Controller\obj\Debug\net8.0\ref\151. IConfiguration in Controller.dll

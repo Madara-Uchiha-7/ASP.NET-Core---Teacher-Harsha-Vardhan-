@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAC1625-2043-4DDA-A00F-883A7F3D8DC3}|49. Notes\\49. Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\49. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAC1625-2043-4DDA-A00F-883A7F3D8DC3}|49. Notes\\49. Notes.csproj|solutionrelative:49. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127F02C9-9203-46A3-BDBA-47CD3C2E8185}|48. WebRoot and UseStaticFiles\\48. WebRoot and UseStaticFiles.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\48. webroot and usestaticfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127F02C9-9203-46A3-BDBA-47CD3C2E8185}|48. WebRoot and UseStaticFiles\\48. WebRoot and UseStaticFiles.csproj|solutionrelative:48. webroot and usestaticfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C2FCC6-2F4D-4ACF-B1F2-5D52BCF5CDE7}|47. EndPoint Selection Order\\47. EndPoint Selection Order.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\47. endpoint selection order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C2FCC6-2F4D-4ACF-B1F2-5D52BCF5CDE7}|47. EndPoint Selection Order\\47. EndPoint Selection Order.csproj|solutionrelative:47. endpoint selection order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE236A99-979E-4672-832F-4EBFD7EEFA66}|46. Custom Route Constraint Class\\46. Custom Route Constraint Class.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\46. custom route constraint class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE236A99-979E-4672-832F-4EBFD7EEFA66}|46. Custom Route Constraint Class\\46. Custom Route Constraint Class.csproj|solutionrelative:46. custom route constraint class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9117D960-DCBE-4DD3-B4FE-67372182F11A}|45. Route Constraints - Part 3\\45. Route Constraints - Part 3.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\45. route constraints - part 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9117D960-DCBE-4DD3-B4FE-67372182F11A}|45. Route Constraints - Part 3\\45. Route Constraints - Part 3.csproj|solutionrelative:45. route constraints - part 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24E3CDC-5F8E-4A33-B39B-9C5245292BD0}|44. Route Constraints - Part 2\\44. Route Constraints - Part 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\44. route constraints - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24E3CDC-5F8E-4A33-B39B-9C5245292BD0}|44. Route Constraints - Part 2\\44. Route Constraints - Part 2.csproj|solutionrelative:44. route constraints - part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C432BF-0E87-4563-8240-B079435CE315}|43. Route Constraints - Part 1\\43. Route Constraints - Part 1.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\43. route constraints - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C432BF-0E87-4563-8240-B079435CE315}|43. Route Constraints - Part 1\\43. Route Constraints - Part 1.csproj|solutionrelative:43. route constraints - part 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A91828-3E6B-4BA2-88E4-7A75885FD3B0}|41. Default Parameters\\41. Default Parameters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\41. default parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A91828-3E6B-4BA2-88E4-7A75885FD3B0}|41. Default Parameters\\41. Default Parameters.csproj|solutionrelative:41. default parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561B3194-5C09-4718-89BC-4A17BDDC4FE4}|42. Optional Parameters\\42. Optional Parameters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\42. optional parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561B3194-5C09-4718-89BC-4A17BDDC4FE4}|42. Optional Parameters\\42. Optional Parameters.csproj|solutionrelative:42. optional parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9082746B-7CDF-47C8-9BB0-405460ADFE4F}|40. Route Parameters\\40. Route Parameters.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\40. route parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9082746B-7CDF-47C8-9BB0-405460ADFE4F}|40. Route Parameters\\40. Route Parameters.csproj|solutionrelative:40. route parameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29011F3-54D3-44F5-B53D-F7AEE2E34297}|39. Map and MapGet and MapPost\\39. Map and MapGet and MapPost.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\39. map and mapget and mappost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29011F3-54D3-44F5-B53D-F7AEE2E34297}|39. Map and MapGet and MapPost\\39. Map and MapGet and MapPost.csproj|solutionrelative:39. map and mapget and mappost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3714A31-513C-4EB6-8774-D41B09961D2F}|38. Intro to Routing\\38. Intro to Routing.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\5. routing\\38. intro to routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3714A31-513C-4EB6-8774-D41B09961D2F}|38. Intro to Routing\\38. Intro to Routing.csproj|solutionrelative:38. intro to routing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\49. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "49. Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\49. Notes\\Program.cs",
+              "RelativeToolTip": "49. Notes\\Program.cs",
+              "ViewState": "AQIAAPoCAAAAAAAAAAAAAAgDAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:48:15.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\48. WebRoot and UseStaticFiles\\Program.cs",
+              "RelativeDocumentMoniker": "48. WebRoot and UseStaticFiles\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\48. WebRoot and UseStaticFiles\\Program.cs",
+              "RelativeToolTip": "48. WebRoot and UseStaticFiles\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwG0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:17:27.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\47. EndPoint Selection Order\\Program.cs",
+              "RelativeDocumentMoniker": "47. EndPoint Selection Order\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\47. EndPoint Selection Order\\Program.cs",
+              "RelativeToolTip": "47. EndPoint Selection Order\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:04:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\46. Custom Route Constraint Class\\Program.cs",
+              "RelativeDocumentMoniker": "46. Custom Route Constraint Class\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\46. Custom Route Constraint Class\\Program.cs",
+              "RelativeToolTip": "46. Custom Route Constraint Class\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T05:54:15.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\45. Route Constraints - Part 3\\Program.cs",
+              "RelativeDocumentMoniker": "45. Route Constraints - Part 3\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\45. Route Constraints - Part 3\\Program.cs",
+              "RelativeToolTip": "45. Route Constraints - Part 3\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:03:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\44. Route Constraints - Part 2\\Program.cs",
+              "RelativeDocumentMoniker": "44. Route Constraints - Part 2\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\44. Route Constraints - Part 2\\Program.cs",
+              "RelativeToolTip": "44. Route Constraints - Part 2\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:52:11.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\43. Route Constraints - Part 1\\Program.cs",
+              "RelativeDocumentMoniker": "43. Route Constraints - Part 1\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\43. Route Constraints - Part 1\\Program.cs",
+              "RelativeToolTip": "43. Route Constraints - Part 1\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:29:36.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\42. Optional Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "42. Optional Parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\42. Optional Parameters\\Program.cs",
+              "RelativeToolTip": "42. Optional Parameters\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:20:54.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\41. Default Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "41. Default Parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\41. Default Parameters\\Program.cs",
+              "RelativeToolTip": "41. Default Parameters\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:12:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\40. Route Parameters\\Program.cs",
+              "RelativeDocumentMoniker": "40. Route Parameters\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\40. Route Parameters\\Program.cs",
+              "RelativeToolTip": "40. Route Parameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:58:48.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\39. Map and MapGet and MapPost\\Program.cs",
+              "RelativeDocumentMoniker": "39. Map and MapGet and MapPost\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\39. Map and MapGet and MapPost\\Program.cs",
+              "RelativeToolTip": "39. Map and MapGet and MapPost\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:42:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\38. Intro to Routing\\Program.cs",
+              "RelativeDocumentMoniker": "38. Intro to Routing\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\5. Routing\\38. Intro to Routing\\Program.cs",
+              "RelativeToolTip": "38. Intro to Routing\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:26:14.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<Solution>
+  <Project Path="164. Project Overview/164. Project Overview.csproj" />
+  <Project Path="165. xUnit Basics/165. xUnit Basics.csproj" />
+  <Project Path="166. xUnit Test/166. xUnit Test.csproj" />
+  <Project Path="167. xUnit Test 2/167. xUnit Test 2.csproj" />
+  <Project Path="168. xUnit Test 5/168. xUnit Test 3.csproj" />
+  <Project Path="169. Add Country - Implementation/169. Add Country - Implementation.csproj" Id="c8bcd7e4-467c-4e06-b5a3-f2d32fec1d0e" />
+  <Project Path="170. Get All Countries - xUnit Test/170. Get All Countries - xUnit Test.csproj" Id="198a44fa-303f-4f98-b945-90bf97a4f0e9" />
+  <Project Path="171. Get All Countries - Implementation/171. Get All Countries - Implementation.csproj" Id="0d116277-a2a5-4f48-b4a8-b4cc64f3b291" />
+  <Project Path="172. Get Country by Country ID - xUnit Test/172. Get Country by Country ID - xUnit Test.csproj" Id="f2890bfa-f026-40af-80bf-e72c82302727" />
+  <Project Path="173. GetCountryByCountryID - Implementation/173. GetCountryByCountryID - Implementation.csproj" Id="72faf8a5-eeb1-426a-9799-25bf79186b96" />
+  <Project Path="174. Add Person - Model - 1/174. Add Person - Model - 1.csproj" Id="5bc33178-89c1-45ae-9552-c7aaca77724b" />
+  <Project Path="174. Add Person - Model - 2/175. Add Person - Model - 2.csproj" Id="7fb2c721-8af2-4d50-831f-90628fe6bafc" />
+  <Project Path="176. Add Person - xUnit Test/176. Add Person - xUnit Test.csproj" Id="937bebf6-b6a5-4bd5-9a06-1ff47a8c2d4c" />
+  <Project Path="177. Add Person - Implementation/177. Add Person - Implementation.csproj" Id="c00a45a9-af90-4728-a505-7b3fe95690cc" />
+  <Project Path="178. Add Person - Validation/178. Add Person - Validation.csproj" Id="c1a60971-88e8-4ddf-a9a0-2555870bf977" />
+  <Project Path="179. GetPersonByPersonID xUnit Test/179. GetPersonByPersonID xUnit Test.csproj" Id="fcacccd0-2a24-4a5b-8667-d3a6afa96b16" />
+  <Project Path="180. GetPersonByPerson ID - Implementation/180. GetPersonByPerson ID - Implementation.csproj" Id="f5d3ab3d-41e2-474c-a4dd-daae6d9988e8" />
+  <Project Path="181. GetAllPersons - xUnit Test/181. GetAllPersons - xUnit Test.csproj" Id="28f89ce1-a5a4-4b78-9e8d-6e88c572b292" />
+  <Project Path="182. GetAllPersons - Implementation/182. GetAllPersons - Implementation.csproj" Id="6ea389e6-7e55-4063-99f9-ab2248b0bc55" />
+  <Project Path="183. TestOutputHelper/183. TestOutputHelper.csproj" Id="a2e8a1f8-ff24-4457-8c85-e8aa24e08dd3" />
+  <Project Path="184. GetFilteredPersons - xUnit Test/184. GetFilteredPersons - xUnit Test.csproj" Id="c79b9e91-97b8-4147-abab-f1b7116c8b05" />
+  <Project Path="185. GetFilteredPersons - Implementation/185. GetFilteredPersons - Implementation.csproj" Id="a5a0834e-e0e8-4141-b16e-41474c0b69a8" />
+  <Project Path="186. Get Sorted Persons - xUnit Test/186. Get Sorted Persons - xUnit Test.csproj" Id="82ce277a-3b56-4e77-8fe2-83932c1ffb92" />
+  <Project Path="187. GetSortedPersons - Implementation/187. GetSortedPersons - Implementation.csproj" Id="8a27944c-97b0-419f-8803-f3482f6a7868" />
+  <Project Path="188. Update Person - Creating DTO/188. Update Person - Creating DTO.csproj" Id="cd8f4261-9886-494e-910b-7e680c9bad1d" />
+  <Project Path="189. UpdatePerson - xUnit Test/189. UpdatePerson - xUnit Test.csproj" Id="2f8e37a2-1c80-4fea-b3cf-36ac66e936eb" />
+  <Project Path="190. UpdatePerson - Implementation/190. UpdatePerson - Implementation.csproj" Id="18a6a7ea-5367-47f6-962d-bf11d1565e12" />
+  <Project Path="191. Delete Person - xUnit Test/191. Delete Person - xUnit Test.csproj" Id="94068772-bfc9-46aa-9aa7-80ad0a06421f" />
+  <Project Path="192. Delete Person - Implementation/192. Delete Person - Implementation.csproj" Id="052a2724-d15a-408f-b10e-110fb62e6a58" />
+  <Project Path="193. Notes/193. Notes.csproj" Id="c60f2244-e256-4fc3-bf79-fd5f1c425219" />
+  <Project Path="CRUDTests/CRUDTests.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

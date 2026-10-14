@@ -1,0 +1,16 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\bin\Debug\net8.0\Services_3.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\bin\Debug\net8.0\Services_3.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\bin\Debug\net8.0\Services_3.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\bin\Debug\net8.0\ServiceContract_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\bin\Debug\net8.0\ServiceContract_1.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.csproj.AssemblyReference.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.csproj.Up2Date
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\refint\Services_3.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\Services_3.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\Services_3\obj\Debug\net8.0\ref\Services_3.dll

@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656A0BFF-E074-BAB6-92C5-7C2D8F955FEF}|220. DbContext and DbSet\\220. DbContext and DbSet.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\220. dbcontext and dbset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656A0BFF-E074-BAB6-92C5-7C2D8F955FEF}|220. DbContext and DbSet\\220. DbContext and DbSet.csproj|solutionrelative:220. dbcontext and dbset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E1B6C-A7FE-E631-B481-6DFD6125EFFF}|218. Intro\\218. Intro.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\218. intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72E1B6C-A7FE-E631-B481-6DFD6125EFFF}|218. Intro\\218. Intro.csproj|solutionrelative:218. intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\MyNotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:MyNotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C953172E-B8E2-4FAF-8705-3491182876C7}|234. Async Unit Test Methods\\234. Async Unit Test Methods.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\234. async unit test methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C953172E-B8E2-4FAF-8705-3491182876C7}|234. Async Unit Test Methods\\234. Async Unit Test Methods.csproj|solutionrelative:234. async unit test methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598BB4AE-BED1-4E17-A0DE-2E31D21CEFC7}|235. Generate PDF Files\\235. Generate PDF Files.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\235. generate pdf files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598BB4AE-BED1-4E17-A0DE-2E31D21CEFC7}|235. Generate PDF Files\\235. Generate PDF Files.csproj|solutionrelative:235. generate pdf files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\crud\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDAA9A8-EC3D-08E8-FA5D-8A70ADF609EF}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\18. entity framework core\\servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\servicecontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\220. DbContext and DbSet\\Program.cs",
+              "RelativeDocumentMoniker": "220. DbContext and DbSet\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\220. DbContext and DbSet\\Program.cs",
+              "RelativeToolTip": "220. DbContext and DbSet\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T05:24:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\218. Intro\\Program.cs",
+              "RelativeDocumentMoniker": "218. Intro\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\218. Intro\\Program.cs",
+              "RelativeToolTip": "218. Intro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T05:23:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T17:05:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyNotes.txt",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\MyNotes.txt",
+              "RelativeDocumentMoniker": "MyNotes.txt",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\MyNotes.txt",
+              "RelativeToolTip": "MyNotes.txt",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-30T11:54:26.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\234. Async Unit Test Methods\\Program.cs",
+              "RelativeDocumentMoniker": "234. Async Unit Test Methods\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\234. Async Unit Test Methods\\Program.cs",
+              "RelativeToolTip": "234. Async Unit Test Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:29:56.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\235. Generate PDF Files\\Program.cs",
+              "RelativeDocumentMoniker": "235. Generate PDF Files\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\235. Generate PDF Files\\Program.cs",
+              "RelativeToolTip": "235. Generate PDF Files\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:27:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:02:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwMEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:59:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUD\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\CRUD\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAwwNwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:43:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\IPersonService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\IPersonService.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:46:38.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:54:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\ICountryService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountryService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\ICountryService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountryService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:50:18.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAswFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:48:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Services\\PersonService.cs",
+              "RelativeToolTip": "Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:35:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\PersonsDbContext.cs",
+              "RelativeToolTip": "Entities\\PersonsDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:17:08.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceContracts.csproj",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeDocumentMoniker": "ServiceContracts\\ServiceContracts.csproj",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\ServiceContracts\\ServiceContracts.csproj",
+              "RelativeToolTip": "ServiceContracts\\ServiceContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T03:17:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\18. Entity Framework Core\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T03:11:17.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

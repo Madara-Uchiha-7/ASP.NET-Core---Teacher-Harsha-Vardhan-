@@ -1,0 +1,27 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\bin\Debug\net8.0\48. WebRoot and UseStaticFiles.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets\msbuild.48. WebRoot and UseStaticFiles.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.48. WebRoot and UseStaticFiles.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.48. WebRoot and UseStaticFiles.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.48. WebRoot and UseStaticFiles.props
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\scopedcss\bundle\48. WebRoot and UseStaticFiles.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\refint\48. WebRoot and UseStaticFiles.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\48. WebRoot and UseStaticFiles.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\5. Routing [MVC and Web API]\48. WebRoot and UseStaticFiles\obj\Debug\net8.0\ref\48. WebRoot and UseStaticFiles.dll

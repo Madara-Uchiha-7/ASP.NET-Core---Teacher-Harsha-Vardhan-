@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1. Introduction to Asp.Net Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9889ac7ec1484874a908e66b5fe363bce3bc329")]
 [assembly: System.Reflection.AssemblyProductAttribute("1. Introduction to Asp.Net Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1. Introduction to Asp.Net Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

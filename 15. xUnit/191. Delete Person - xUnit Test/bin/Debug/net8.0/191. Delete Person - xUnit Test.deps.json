@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "191. Delete Person - xUnit Test/1.0.0": {
+        "runtime": {
+          "191. Delete Person - xUnit Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "191. Delete Person - xUnit Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\MyOwnConfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\bin\Debug\net8.0\158. Custom Json Configuration.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\scopedcss\bundle\158. Custom Json Configuration.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\refint\158. Custom Json Configuration.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\158. Custom Json Configuration.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\14. Configuration and HTTPClient\158. Custom Json Configuration\obj\Debug\net8.0\ref\158. Custom Json Configuration.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\8. Razor Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B127354-B177-4C50-91CE-249E6EACC42B}|86. Code Blocks and Expressions\\86. Code Blocks and Expressions.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\8. razor views\\86. code blocks and expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B127354-B177-4C50-91CE-249E6EACC42B}|86. Code Blocks and Expressions\\86. Code Blocks and Expressions.csproj|solutionrelative:86. code blocks and expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\8. Razor Views\\86. Code Blocks and Expressions\\Program.cs",
+              "RelativeDocumentMoniker": "86. Code Blocks and Expressions\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\8. Razor Views\\86. Code Blocks and Expressions\\Program.cs",
+              "RelativeToolTip": "86. Code Blocks and Expressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T05:19:57.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

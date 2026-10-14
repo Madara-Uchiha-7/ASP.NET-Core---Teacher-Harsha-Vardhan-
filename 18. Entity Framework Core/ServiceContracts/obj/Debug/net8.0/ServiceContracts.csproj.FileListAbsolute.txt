@@ -1,0 +1,16 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\bin\Debug\net8.0\Entities.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\18. Entity Framework Core\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

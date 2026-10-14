@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="150. Configuration Basics/150. Configuration Basics.csproj" />
+  <Project Path="151. IConfiguration in Controller/151. IConfiguration in Controller.csproj" />
+  <Project Path="152. Hierarchical Configuration/152. Hierarchical Configuration.csproj" />
+  <Project Path="153. Options Pattern/153. Options Pattern.csproj" Id="e21b2aa4-49e5-46e8-86e1-8ce1f8f73bfa" />
+  <Project Path="154. Configuration as Service/154. Configuration as Service.csproj" Id="e212c8b7-9819-4d2d-b653-9331a8881d00" />
+  <Project Path="155. Environment Specific Configuration/155. Environment Specific Configuration.csproj" Id="3133b8ca-d79b-4d43-b6a0-feade673d615" />
+  <Project Path="156. Secrets Manager/156. Secrets Manager.csproj" Id="56f33831-e53e-4c5c-afb7-21b8965e7657" />
+  <Project Path="157. Environment Variables Configuration/157. Environment Variables Configuration.csproj" Id="5b448254-8784-4101-8911-90601084aab1" />
+  <Project Path="158. Custom Json Configuration/158. Custom Json Configuration.csproj" Id="55a8d53b-0f04-438d-86bd-91a73f12c4a3" />
+  <Project Path="159. Http Client - Part 1/159. Http Client - Part 1_2_3.csproj" Id="51b08503-a108-4ada-81a0-b0260501b62b" />
+  <Project Path="Notes/162.Notes.csproj" Id="d1aba698-eb2b-41ce-a040-77767b78960f" />
+</Solution>

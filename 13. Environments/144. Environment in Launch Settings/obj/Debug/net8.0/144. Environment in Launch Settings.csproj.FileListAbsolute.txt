@@ -1,0 +1,33 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\bin\Debug\net8.0\144. Environment in Launch Settings.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\scopedcss\bundle\144. Environment in Launch Settings.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\refint\144. Environment in Launch Settings.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\144. Environment in Launch Settings.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\Environments\144. Environment in Launch Settings\obj\Debug\net8.0\ref\144. Environment in Launch Settings.dll

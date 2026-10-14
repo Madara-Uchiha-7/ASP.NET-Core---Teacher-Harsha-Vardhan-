@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPxhJ2fkPfo=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\12. Dependency Injection\\140. Autofac\\140. Autofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chinm\\.nuget\\packages\\autofac\\8.4.0\\autofac.8.4.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\chinm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

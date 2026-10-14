@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="143. Environments Intro/143. Environments Intro.csproj" />
+  <Project Path="144. Environment in Launch Settings/144. Environment in Launch Settings.csproj" />
+  <Project Path="145. Environment in Controller/145. Environment in Controller.csproj" />
+  <Project Path="146. Environment Tag Helper/146. Environment Tag Helper.csproj" />
+  <Project Path="147. Process Level Environment/147. Process Level Environment.csproj" Id="0b458fae-8291-4971-896c-c5ad318e4986" />
+  <Project Path="148. Notes/148. Notes.csproj" Id="8946dcb9-a143-4552-ba72-ae3b3dc02cca" />
+</Solution>

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\Helpers\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Helpers\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\CountriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\CountriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonUpdateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceContracts\\DTO\\PersonUpdateRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceContracts\\DTO\\PersonResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceContracts\\DTO\\PersonAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceContracts\\DTO\\CountryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceContracts\\DTO\\CountryAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\PersonsServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDTests\\PersonsServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\MyMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDTests\\MyMath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\CountriesServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDTests\\CountriesServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:47:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\PersonService.cs",
+              "RelativeToolTip": "Services\\PersonService.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAUwGMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:47:03.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:46:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:46:05.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:45:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonAddRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:45:46.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:45:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:45:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:44:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:44:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAUwGYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:43:07.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\MyMath.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\MyMath.cs",
+              "RelativeToolTip": "CRUDTests\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:42:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\Test and Library Backup\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T07:38:37.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

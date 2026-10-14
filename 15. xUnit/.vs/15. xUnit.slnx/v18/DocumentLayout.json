@@ -1,0 +1,575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\ipersonservice_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonservice_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\personsservicetest_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60F2244-E256-4FC3-BF79-FD5F1C425219}|193. Notes\\193. Notes.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\193. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60F2244-E256-4FC3-BF79-FD5F1C425219}|193. Notes\\193. Notes.csproj|solutionrelative:193. notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\services\\personservice_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\personservice_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052A2724-D15A-408F-B10E-110FB62E6A58}|192. Delete Person - Implementation\\192. Delete Person - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\192. delete person - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052A2724-D15A-408F-B10E-110FB62E6A58}|192. Delete Person - Implementation\\192. Delete Person - Implementation.csproj|solutionrelative:192. delete person - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A6A7EA-5367-47F6-962D-BF11D1565E12}|190. UpdatePerson - Implementation\\190. UpdatePerson - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\190. updateperson - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A6A7EA-5367-47F6-962D-BF11D1565E12}|190. UpdatePerson - Implementation\\190. UpdatePerson - Implementation.csproj|solutionrelative:190. updateperson - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\personaddrequest_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequest_copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA389E6-7E55-4063-99F9-AB2248B0BC55}|182. GetAllPersons - Implementation\\182. GetAllPersons - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\182. getallpersons - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA389E6-7E55-4063-99F9-AB2248B0BC55}|182. GetAllPersons - Implementation\\182. GetAllPersons - Implementation.csproj|solutionrelative:182. getallpersons - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A60971-88E8-4DDF-A9A0-2555870BF977}|178. Add Person - Validation\\178. Add Person - Validation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\178. add person - validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A60971-88E8-4DDF-A9A0-2555870BF977}|178. Add Person - Validation\\178. Add Person - Validation.csproj|solutionrelative:178. add person - validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\personaddrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00A45A9-AF90-4728-A505-7B3FE95690CC}|177. Add Person - Implementation\\177. Add Person - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\177. add person - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00A45A9-AF90-4728-A505-7B3FE95690CC}|177. Add Person - Implementation\\177. Add Person - Implementation.csproj|solutionrelative:177. add person - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937BEBF6-B6A5-4BD5-9A06-1FF47A8C2D4C}|176. Add Person - xUnit Test\\176. Add Person - xUnit Test.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\176. add person - xunit test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937BEBF6-B6A5-4BD5-9A06-1FF47A8C2D4C}|176. Add Person - xUnit Test\\176. Add Person - xUnit Test.csproj|solutionrelative:176. add person - xunit test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\enums\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC33178-89C1-45AE-9552-C7AACA77724B}|174. Add Person - Model - 1\\174. Add Person - Model - 1.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\174. add person - model - 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC33178-89C1-45AE-9552-C7AACA77724B}|174. Add Person - Model - 1\\174. Add Person - Model - 1.csproj|solutionrelative:174. add person - model - 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FAF8A5-EEB1-426A-9799-25BF79186B96}|173. GetCountryByCountryID - Implementation\\173. GetCountryByCountryID - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\173. getcountrybycountryid - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FAF8A5-EEB1-426A-9799-25BF79186B96}|173. GetCountryByCountryID - Implementation\\173. GetCountryByCountryID - Implementation.csproj|solutionrelative:173. getcountrybycountryid - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2890BFA-F026-40AF-80BF-E72C82302727}|172. Get Country by Country ID - xUnit Test\\172. Get Country by Country ID - xUnit Test.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\172. get country by country id - xunit test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2890BFA-F026-40AF-80BF-E72C82302727}|172. Get Country by Country ID - xUnit Test\\172. Get Country by Country ID - xUnit Test.csproj|solutionrelative:172. get country by country id - xunit test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D116277-A2A5-4F48-B4A8-B4CC64F3B291}|171. Get All Countries - Implementation\\171. Get All Countries - Implementation.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\171. get all countries - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D116277-A2A5-4F48-B4A8-B4CC64F3B291}|171. Get All Countries - Implementation\\171. Get All Countries - Implementation.csproj|solutionrelative:171. get all countries - implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB2C721-8AF2-4D50-831F-90628FE6BAFC}|174. Add Person - Model - 2\\175. Add Person - Model - 2.csproj|d:\\code\\udemy\\asp .net core - harsha vardhan\\15. xunit\\174. add person - model - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB2C721-8AF2-4D50-831F-90628FE6BAFC}|174. Add Person - Model - 2\\175. Add Person - Model - 2.csproj|solutionrelative:174. add person - model - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:41:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:38:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "CRUDTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:37:21.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\MyMath.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\MyMath.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\MyMath.cs",
+              "RelativeToolTip": "CRUDTests\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T09:31:34.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\193. Notes\\Program.cs",
+              "RelativeDocumentMoniker": "193. Notes\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\193. Notes\\Program.cs",
+              "RelativeToolTip": "193. Notes\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:42:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:12:44.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonsServiceTest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:18:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\ICountryService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICountryService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\ICountryService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICountryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:54:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonService_Copy.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\IPersonService_Copy.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonService_Copy.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\IPersonService_Copy.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonService_Copy.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T17:39:18.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonUpdateRequest.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonUpdateRequest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T07:44:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T08:05:20.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\190. UpdatePerson - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "190. UpdatePerson - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\190. UpdatePerson - Implementation\\Program.cs",
+              "RelativeToolTip": "190. UpdatePerson - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:07:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Person.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Entities\\Person.cs",
+              "RelativeToolTip": "Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:21:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonsServiceTest_Copy.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\PersonsServiceTest_Copy.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest_Copy.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\PersonsServiceTest_Copy.cs",
+              "RelativeToolTip": "CRUDTests\\PersonsServiceTest_Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T17:12:12.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\192. Delete Person - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "192. Delete Person - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\192. Delete Person - Implementation\\Program.cs",
+              "RelativeToolTip": "192. Delete Person - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:38:24.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRUDTests.csproj",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\CRUDTests.csproj",
+              "RelativeDocumentMoniker": "CRUDTests\\CRUDTests.csproj",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\CRUDTests\\CRUDTests.csproj",
+              "RelativeToolTip": "CRUDTests\\CRUDTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T11:42:54.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonService_Copy.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\PersonService_Copy.cs",
+              "RelativeDocumentMoniker": "Services\\PersonService_Copy.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\PersonService_Copy.cs",
+              "RelativeToolTip": "Services\\PersonService_Copy.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAHMBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T16:53:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\182. GetAllPersons - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "182. GetAllPersons - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\182. GetAllPersons - Implementation\\Program.cs",
+              "RelativeToolTip": "182. GetAllPersons - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:20:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonAddRequest_Copy.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonAddRequest_Copy.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest_Copy.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonAddRequest_Copy.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest_Copy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T16:57:45.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Services\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Services\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T17:51:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\178. Add Person - Validation\\Program.cs",
+              "RelativeDocumentMoniker": "178. Add Person - Validation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\178. Add Person - Validation\\Program.cs",
+              "RelativeToolTip": "178. Add Person - Validation\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T16:51:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonsService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\PersonsService.cs",
+              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\PersonsService.cs",
+              "RelativeToolTip": "Services\\PersonsService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwE4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:13:02.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\IPersonService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IPersonService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\IPersonService.cs",
+              "RelativeToolTip": "ServiceContracts\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:06:38.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\177. Add Person - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "177. Add Person - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\177. Add Person - Implementation\\Program.cs",
+              "RelativeToolTip": "177. Add Person - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:39:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\176. Add Person - xUnit Test\\Program.cs",
+              "RelativeDocumentMoniker": "176. Add Person - xUnit Test\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\176. Add Person - xUnit Test\\Program.cs",
+              "RelativeToolTip": "176. Add Person - xUnit Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:02:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonAddRequset.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonAddRequset.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequset.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\PersonAddRequset.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequset.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:34:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\174. Add Person - Model - 2\\Program.cs",
+              "RelativeDocumentMoniker": "174. Add Person - Model - 2\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\174. Add Person - Model - 2\\Program.cs",
+              "RelativeToolTip": "174. Add Person - Model - 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:56:20.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenderOptions.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\Enums\\GenderOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Enums\\GenderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:42:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\174. Add Person - Model - 1\\Program.cs",
+              "RelativeDocumentMoniker": "174. Add Person - Model - 1\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\174. Add Person - Model - 1\\Program.cs",
+              "RelativeToolTip": "174. Add Person - Model - 1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:04:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\173. GetCountryByCountryID - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "173. GetCountryByCountryID - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\173. GetCountryByCountryID - Implementation\\Program.cs",
+              "RelativeToolTip": "173. GetCountryByCountryID - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T10:26:06.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\172. Get Country by Country ID - xUnit Test\\Program.cs",
+              "RelativeDocumentMoniker": "172. Get Country by Country ID - xUnit Test\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\172. Get Country by Country ID - xUnit Test\\Program.cs",
+              "RelativeToolTip": "172. Get Country by Country ID - xUnit Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T06:42:36.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\171. Get All Countries - Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "171. Get All Countries - Implementation\\Program.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\171. Get All Countries - Implementation\\Program.cs",
+              "RelativeToolTip": "171. Get All Countries - Implementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:39:16.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Services\\CountriesService.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Services\\CountriesService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:23:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "D:\\Code\\Udemy\\ASP .NET Core - Harsha Vardhan\\15. xUnit\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:52:07.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\bin\Debug\net8.0\197. List View.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\scopedcss\bundle\197. List View.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\refint\197. List View.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\197. List View.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\16. CRUD Operations MVC\197. List View\obj\Debug\net8.0\ref\197. List View.dll

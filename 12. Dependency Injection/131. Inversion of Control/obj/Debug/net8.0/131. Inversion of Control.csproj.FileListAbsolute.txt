@@ -1,0 +1,39 @@
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\appsettings.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.staticwebassets.runtime.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.staticwebassets.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.exe
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.deps.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.runtimeconfig.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\131. Inversion of Control.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\ServiceContract.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\Services_1.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\ServiceContract.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\bin\Debug\net8.0\Services_1.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.csproj.AssemblyReference.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.AssemblyInfoInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.AssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.csproj.CoreCompileInputs.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.RazorAssemblyInfo.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.RazorAssemblyInfo.cs
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.sourcelink.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\scopedcss\bundle\131. Inversion of Control.styles.css
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\swae.build.ex.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inv.ED45C9C5.Up2Date
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\refint\131. Inversion of Control.dll
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.pdb
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\131. Inversion of Control.genruntimeconfig.cache
+D:\Code\Udemy\ASP .NET Core - Harsha Vardhan\12. Dependency Injection\131. Inversion of Control\obj\Debug\net8.0\ref\131. Inversion of Control.dll

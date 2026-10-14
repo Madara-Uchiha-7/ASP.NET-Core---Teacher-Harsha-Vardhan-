@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUDTests",
+    "\\ServiceContracts",
+    "\\ServiceContracts\\DTO",
+    "\\Services",
+    "\\Services\\Helpers",
+    "\\Services\\obj"
+  ],
+  "SelectedNode": "\\Services\\PersonService.cs",
+  "PreviewInSolutionExplorer": false
+}

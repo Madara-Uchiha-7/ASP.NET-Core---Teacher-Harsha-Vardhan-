@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "176. Add Person - xUnit Test/1.0.0": {
+        "runtime": {
+          "176. Add Person - xUnit Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "176. Add Person - xUnit Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
